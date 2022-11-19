@@ -1,2 +1,1 @@
-# player-aids
-Various resources to help people play the superlative 2016 board game Terraforming Mars from FryxGames.
+Various resources for players of the superlative 2016 board game [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) from FryxGames.
