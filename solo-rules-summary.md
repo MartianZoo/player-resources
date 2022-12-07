@@ -25,7 +25,7 @@ Use all rules from the **Corporate Era** multiplayer game, except as modified on
 * You begin with **14 TR** instead of 20.
 * There are **no milestones or awards**.
 * There is a **neutral player**. It doesn't _do_ anything, but it:
-    * Counts as a** _player_ or _opponent_** for purposes of any cards[^1] that use those terms.
+    * Counts as a **_player_ or _opponent_** for purposes of any cards[^1] that use those terms.
     * Has infinite **production and resources** of all kinds. When your cards decrease/remove them, the game treats this as having _actually_ happened (for any cards[^2] that care about that).
     * Has 2 **cities**, and a **greenery** next to each, placed randomly on the board (see rulebook page 13, or [here](https://drive.google.com/file/d/1ASFqalCUC-XEHLwDCncdA_ufFFW3Yevv/view?usp=sharing)). These are present from the start, yet still trigger Tharsis Republic as if they are played just _after_ it. Do not raise oxygen for these tiles.
 * In **TR Mode** only, an extra Standard Project is available, called **Buffer Gas**: pay 16 M€ to increase your TR 1 step.
