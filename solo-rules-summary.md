@@ -34,7 +34,7 @@ Use all rules from the **Corporate Era** multiplayer game, plus any chosen expan
 
 ## Changes by expansion
 
-Either solo mode can be played with any combination of expansions.
+Either solo mode can be played with any combination of expansions. (The Corporate Era pseudo-expansion bundled with the base game is required.)
 
 * **Venus Next**: If included, then to win **Standard Mode** you must also finish Venus.
 * **Prelude**: If included, play only **12 generations** instead of 14.
