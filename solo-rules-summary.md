@@ -17,7 +17,7 @@ Choose your mode before you start.
 
 Use all rules from the **Corporate Era** multiplayer game, plus any chosen expansions, except as modified on this page.
 
-* You'll play a **fixed number of generations**: for the base game, that's **14**. Completing global parameters **will not** end the game early.
+* You'll play a **fixed number of generations**: for the base game, that's **14**. You always play all of these generations, even if you win early.
 * Victory is checked **immediately** after the final production phase. See your chosen mode's victory condition above.
 * **If you lost**, pack it up! Officially, you have no score.
 * **If you won**, proceed normally to the final greenery phase, and try to score a few more points. (**TR Mode**: placing greenery no longer raises oxygen.)
