@@ -17,3 +17,7 @@ Also, the handiest way to browse cards is https://ssimeonoff.github.io/cards-lis
 File issues! Send pull requests! Contribute new resources if you made them!
 
 I welcome these contributions. Bear in mind though I am extremely picky about quality control!
+
+### Printability
+
+The text/markdown files wouldn't print well since they have the github header on them. If anyone knows an easy markdown-to-PDF converter, or maybe an easy way to host the htmlified text as a plain old web page, that might be helpful. I'm not good with technology, myself.
