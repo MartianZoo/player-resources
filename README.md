@@ -11,3 +11,9 @@ I also maintain http://tinyurl.com/tfm-spreadsheet, and bugs can be filed here f
 A resource I *don't* maintain, but which is an *amazing* resource that every player should know about, is http://tinyurl.com/terraforming-mars-faq.
 
 Also, the handiest way to browse cards is https://ssimeonoff.github.io/cards-list. You might use my spreadsheet for very "spreadsheety" things, but most of the time this way is way more convenient.
+
+### Contributing?
+
+File issues! Send pull requests! Contribute new resources if you made them!
+
+I welcome these contributions. Bear in mind though I am extremely picky about quality control!
