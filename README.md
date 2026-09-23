@@ -12,12 +12,6 @@ A resource I *don't* maintain, but which is an *amazing* resource that every pla
 
 Also, the handiest way to browse cards is https://ssimeonoff.github.io/cards-list. You might use my spreadsheet for very "spreadsheety" things, but most of the time this way is way more convenient.
 
-### Contributing?
-
-File issues! Send pull requests! Contribute new resources if you made them!
-
-I welcome these contributions. Bear in mind though I am extremely picky about quality control!
-
 ### Printability
 
 The text/markdown files wouldn't print well since they have the github header on them. If anyone knows an easy markdown-to-PDF converter, or maybe an easy way to host the htmlified text as a plain old web page, that might be helpful. I'm not good with technology, myself.
