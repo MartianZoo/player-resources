@@ -5867,10 +5867,10 @@ step. Add 3 floaters to ANY VENUS CARD._
 any card to add 1 to this card; Bottom - Requires 4% oxygen. 1 VP per 2 microbes on this card._
 
 [Aquifer Pumping](#aquifer-pumping-187-s) (18 MC, Blue Card), _Action: Spend 8 MC to place 1 ocean
-tile. Steel may be used as if you were playing a building card._
+tile. STEEL MAY BE USED as if you were playing a building card._
 
 [Arctic Algae](#arctic-algae-023-s) (12 MC, Blue Card, Maximum -12°C Temperature Requirement),
-_Top - Effect: When anyone places an ocean tile, gain 2 plants; Bottom: It must be -12°C or colder
+_Top - Effect: When anyone places an ocean tile, gain 2 plants; Bottom - It must be -12°C or colder
 to play. Gain 1 plant._
 
 [Asteroid Mining Consortium](#asteroid-mining-consortium-002-ce) (13 MC, Green Card, Titanium
@@ -5881,21 +5881,21 @@ Meat Industry (5 MC, Blue Card), _Effect: When you gain an animal to ANY
 CARD, gain 2 MC._
 
 [Topsoil Contract](#topsoil-contract-x25-bpro) (8 MC, Blue Card), _Top - Effect: When you gain a
-microbe to ANY CARD, also gain 1 MC;
-Bottom - Gain 3 plants._
+microbe to ANY CARD, also gain 1 MC; Bottom - Gain 3 plants._
 
-[Business Network](#business-network-110-ce) (4 MC, Blue Card), _Top - Action: Look at the top card
-and either buy it or discard it; Bottom - Decrease your MC production 1 step._
+[Business Network](#business-network-110-ce) (4 MC, Blue Card), _Top - Action: LOOK AT THE TOP CARD
+AND EITHER BUY IT OR DISCARD IT; Bottom - Decrease your MC production 1 step._
 
 [Capital](#capital-008-s) (26 MC, Green Card, 4 Ocean Requirement), _Requires 4 ocean tiles. Place
 this tile. Decrease your energy production 2 steps and increase your MC production 5 steps. 1
-ADDITIONAL VP FOR EACH OCEAN TILE ADJACENT TO THIS TILE._
+ADDITIONAL VP FOR EACH OCEAN TILE ADJACENT TO THIS CITY TILE._
 
 [Caretaker Contract](#caretaker-contract-154-ce) (3 MC, Blue Card, 0°C Temperature Requirement),
-_Action: Spend 8 heat to increase your terraform rating 1 step._
+_Top - Action: Spend 8 heat to increase your terraform rating 1 step; Bottom - Requires 0°C or
+warmer._
 
-[CEO’s Favorite Project](#ceos-favorite-project-149-ce) (1 MC, Event), _Add 1 resource to a card
-with at least 1 resource on it_.
+[CEO’s Favorite Project](#ceos-favorite-project-149-ce) (1 MC, Event), _ADD 1 RESOURCE TO A CARD
+WITH AT LEAST 1 RESOURCE ON IT_
 
 [Community Services](#community-services-c04-c) (13 MC, Green Card), _Increase your MC production 1
 step per CARD WITH NO TAGS, including this._
@@ -5968,27 +5968,27 @@ production 5 steps. 1 VP for every 3rd city in play._
 <a name="card-imported-nitrogen"></a>Imported Nitrogen (23 MC, Event), _Raise your TR 1 step and
 gain 4 plants. Add 3 microbes to ANOTHER card and 2 animals to ANOTHER card._
 
-Inventors’ Guild (9 MC, Blue Card), _Action: Look at the top card and
-either buy it or discard it_.
+Inventors’ Guild (9 MC, Blue Card), _Action: LOOK AT THE TOP CARD AND
+EITHER BUY IT OR DISCARD IT_
 
 [Ironworks](#ironworks-101-s) (11 MC, Blue Card), _Action: Spend 4 energy to gain 1 steel and
 increase oxygen 1 step._
 
-[Land Claim](#land-claim-066-ce) (1 MC, Event), _Place your marker on a non-reserved area. Only you
-may place a tile here_.
+[Land Claim](#land-claim-066-ce) (1 MC, Event), _PLACE YOUR MARKER ON A NON-RESERVED AREA. ONLY YOU
+MAY PLACE A TILE HERE_
 
-[Lava Flows](#lava-flows-140-s) (18 MC, Event), _Raise temperature 2 steps and place this tile on
-either Tharsis Tholus, Ascraeus Mons, Pavonis Mons or Arsia Mons._
+[Lava Flows](#lava-flows-140-s) (18 MC, Event), _Raise temperature 2 steps and place this tile ON
+EITHER THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS OR ARSIA MONS._
 
 [Lava Tube Settlement](#lava-tube-settlement-p37-p) (15 MC, Green Card), _Decrease your energy
-production 1 step. Increase your MC production 2 steps. Place a city tile on a volcanic area, same
+production 1 step. Increase your MC production 2 steps. Place a city tile ON A VOLCANIC AREA, same
 as “[Lava Flows](#lava-flows-140-s)”, regardless of adjacent cities._
 
-[Law Suit](#law-suit-x06-tpro) (2 MC, Event), _Steal 3 MC from a player that removed your resources
-or decreased your production this generation. Place this card face down in that player’s event
-pile._
+[Law Suit](#law-suit-x06-tpro) (2 MC, Event), _Steal 3 MC from a player that REMOVED YOUR RESOURCES
+OR DECREASED YOUR PRODUCTION this generation. Place this card face down in THAT PLAYER’S EVENT
+PILE._
 
-[Local Heat Trapping](#local-heat-trapping-190-s) (1 MC, Event), _Spend 5 heat to gain either 4
+[Local Heat Trapping](#local-heat-trapping-190-s) (1 MC, Event), _Spend 5 heat to either gain 4
 plants, or to add 2 animals to ANOTHER card._
 
 [Mars University](#mars-university-073-ce) (8 MC, Blue Card), _Effect: When you play a science tag,
@@ -6008,9 +6008,9 @@ gain 3 MC._
 every 2 building tags you have, including this._
 
 [Mercurian Alloys](#mercurian-alloys-x07-tpro) (Blue Card, 3 MC, 2 Science tag requirement),
-_Effect: Your titanium resources are worth 1 MC extra._
+_Top - Effect: Your titanium resources are worth 1 MC extra; Bottom - Requires 2 science tags._
 
-[Mining Area](#mining-area-064-ce) (4 MC, Green Card), _Place this tile on an area with a steel or a
+[Mining Area](#mining-area-064-ce) (4 MC, Green Card), _Place this tile on an area with a steel or
 titanium placement bonus, adjacent to another of your tiles. Increase your production of that
 resource 1 step._
 
@@ -6024,12 +6024,12 @@ microbes to this card._
 <a name="card-nitrophilic-moss"></a>Nitrophilic Moss (8 MC, Green Card, 3 Ocean Requirement),
 _Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps._
 
-[Olympus Conference](#olympus-conference-185-ce) (10 MC, Blue Card), _When you play a
+[Olympus Conference](#olympus-conference-185-ce) (10 MC, Blue Card), _Effect: When you play a
 science tag, including this, either add a science resource to this card, or remove a science
 resource from this card to draw a card._
 
-[Optimal Aerobraking](#optimal-aerobraking-031-s) (7 MC, Blue Card), _Effect: When you play a Space
-Event, you gain 3 MC and 3 heat._
+[Optimal Aerobraking](#optimal-aerobraking-031-s) (7 MC, Blue Card), _Effect: When you play a space
+event, you gain 3 MC and 3 heat._
 
 <a name="card-physics-complex"></a>Physics Complex (12 MC, Blue Card), _Top - Action: Spend 6 energy
 to add a science resource to this card; Bottom - 2 VP for each science resource on this card._
@@ -6038,11 +6038,10 @@ to add a science resource to this card; Bottom - 2 VP for each science resource 
 animal from any card and add it to this card; Bottom - Requires 11% oxygen. 1 VP per animal on this
 card._
 
-[Protected Habitats](#protected-habitats-173-ce) (5 MC, Blue Card), _Opponents may not
-remove your
-plant, animal or microbe resources._
+[Protected Habitats](#protected-habitats-173-ce) (5 MC, Blue Card), _Effect: OPPONENTS MAY NOT
+REMOVE YOUR (Plant) (Animal) (Microbe)_
 
-[Rego Plastics](#rego-plastics-x10-tpro) (Blue Card, 10 MC), _Effect: Your titanium resources are worth
+[Rego Plastics](#rego-plastics-x10-tpro) (Blue Card, 10 MC), _Effect: Your steel resources are worth
 1 MC extra._
 
 [Research](#research-090-ce) (11 MC, Green Card), _Counts as playing 2 science cards. Draw 2 cards._
@@ -6057,7 +6056,7 @@ draw a card; Bottom - Place this tile._
 box of one of your building cards._
 
 [Rotator Impacts](#rotator-impacts-243-vn) (6 MC, Blue Card, Maximum 14% Venus Requirement), _Top -
-Action: Spend 6 MC to add an asteroid resource to this card (Titanium may be used), or spend a
+Action: Spend 6 MC to add an asteroid resource to this card (TITANIUM MAY BE USED), or spend a
 resource from this card to increase Venus 1 step; Bottom - Venus must be 14% or lower._
 
 [Rover Construction](#rover-construction-038-s) (8 MC, Blue Card), _Effect: When any city tile is
@@ -6108,12 +6107,12 @@ _Top - Action: Add 1 microbe to this card; Bottom - Requires Venus 12%. 1 VP per
 card._
 
 [Viral Enhancers](#viral-enhancers-074-ce) (9 MC, Blue Card), _Effect: When you play a plant,
-microbe, or an animal tag, including this, gain 1 plant or add 1 resource to that card._
+microbe, or an animal tag, including this, gain 1 plant or add 1 resource TO THAT CARD._
 
 [Virus](#virus-050-ce) (1 MC, Event), _Remove up to 2 animals or 5 plants from any player._
 
 [Water Import from Europa](#water-import-from-europa-012-s) (25 MC, Blue Card), _Top - Action: Pay
-12 MC to place an ocean tile. Titanium may be used as if playing a Space card; Bottom - 1 VP for
+12 MC to place an ocean tile. TITANIUM MAY BE USED as if playing a space card; Bottom - 1 VP for
 each Jovian tag you have._
 
 <a name="card-water-splitting-plant"></a>Water Splitting Plant (12 MC, Blue Card, 2 Ocean
