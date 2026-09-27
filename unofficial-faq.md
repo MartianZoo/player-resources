@@ -412,7 +412,7 @@ example, “Water Splitting Plant” (Requires 2 ocean tiles) means **2 ocean ti
 Once a card is played, the requirements no longer matter – they only specify when the card can be
 put into play. For example, the action on “[Rotator Impacts](#rotator-impacts-243-vn)” (the card has
 a requirement of max 14% Venus) can still be used after Venus is raised to 16% and higher, as long
-as the card was played before 14%.
+as the card was played when Venus was 14% or lower.
 
 If tags are required, then the player must have the appropriate tags visible on blue cards, green
 cards, corporation cards and/or Prelude cards **already played**. Cards in your hand do not count
@@ -585,7 +585,7 @@ following situations:
 
 - If you have a discount on a specific tag, this would apply to the event in question.
 - If the tag for the event triggers an effect on another card (e.g., a Science tag triggering
-  “Olympus Conference”, allowing you to discard a card from hand and draw
+  “[Mars University](#mars-university-073-ce)”, allowing you to discard a card from hand and draw
   another) this would apply when it is played.
 - If an event has a space tag, you can use titanium towards its costs.
 - If the event card has you count tags in play, the appropriate tag on _that event_ would count
@@ -632,7 +632,7 @@ done as many times per generation as you have the resources for.
 
 ### What are Standard Projects?
 
-Standard Projects include the 5 printed on the player boards (Sell Patents, Power Plant, Asteroid,
+Standard Projects include the 6 printed on the game board (Sell Patents, Power Plant, Asteroid,
 Aquifer, Greenery, City), 1 on the Venus board (Air Scrapping), 1 with Colonies (Build Colony) and 1
 with the TR solo variant (Buffer Gas).
 
@@ -732,7 +732,7 @@ own production or you cannot play the card.
 Steel and titanium are special resources that can be used to pay for a card or an action. Steel can
 only be used to pay for cards with the building tag, and titanium can only be used to pay for cards with the space tag. You can pay for a card with
 both steel and titanium if it has both building AND
-titanium tags (e.g., “[Space Elevator](#space-elevator-013-ce)”). When paying for a card, you can
+space tags (e.g., “[Space Elevator](#space-elevator-013-ce)”). When paying for a card, you can
 mix and match M€ and steel/titanium. Each titanium is worth 3 M€ towards the cost of a space card,
 and each steel is worth 2 M€ towards the cost of a building card (unless you are playing the
 PhoboLog Corporation, have played the “[Advanced Alloys](#advanced-alloys-071-ce)”,
@@ -999,7 +999,8 @@ perform the action even if the effect is not met:
 
 - When a passive effect from a blue card or corporation would be triggered by something occurring
   during play (e.g., playing a Science card with “[Olympus Conference](#olympus-conference-185-ce)”,
-  getting 2 plants from another player placing an ocean tile with , or receiving 2 M€ when someone raises Venus with the
+  getting 2 plants from another player placing an ocean tile with
+  “[Arctic Algae](#arctic-algae-023-s)”, or receiving 2 M€ when someone raises Venus with the
   [Aphrodite](#aphrodite-vn) corporation) this is optional and the active player may choose not to
   trigger it. However, triggers can be invoked by ANYONE, so another player may point out a trigger
   thus causing it to be triggered. In this way, triggers are technically optional, in that if no one
@@ -1251,7 +1252,7 @@ placing a tile on the corresponding space. These can include:
 - Delegates (printed on the space)
 - Global parameters (requiring you to spend M€)
 - A colony (requiring you to spend M€)
-- 2 M€ for each ocean tile adjacent to a tile you place on the board (or 2 M€ for the
+- 2 M€ for each ocean tile adjacent to a tile you place on the board (or 3 M€ for the
   [Lakefront Resorts](#lakefront-resorts-t) corporation)
 
 Board spaces that grant a wild resource (denoted by a white resource with a “?” symbol on the
@@ -1350,7 +1351,7 @@ There are several general rules to follow when placing tiles on the board:
 - Unless a card specifies otherwise, ocean tiles can only be placed on the reserved blue coloured
   spots on the board.
 
-- No tiles can be played on the reserved blue coloured ocean spots on Mars unless a card
+- Non-ocean tiles cannot be played on the reserved blue coloured ocean spots on Mars unless a card
   says otherwise (there are 3 cards that are exceptions).
 
 - Only an Arcadian Communities player can place tiles on spots that
@@ -3050,7 +3051,7 @@ discounted to 0 M€ with “Earth Office”.
 ### Electro Catapult 069 (CE)
 
 Having the “[Advanced Alloys](#advanced-alloys-071-ce)” or
-“[Rego Plastics](#rego-plastics-x10-tpro)” cards would not alter the 5 M€ gained if spending steel
+“[Rego Plastics](#rego-plastics-x10-tpro)” cards would not alter the 7 M€ gained if spending steel
 on this card action.
 
 However, “[Advanced Alloys](#advanced-alloys-071-ce)” and/or
@@ -3111,7 +3112,7 @@ towards the score.
 
 <a name="ghg-producing-bacteria-034-s"></a>
 
-### GHG Producing Bacteria 033 (S)
+### GHG Producing Bacteria 034 (S)
 
 You may keep adding microbes to this card (with no effect) even after the temperature has been maxed
 out.
@@ -4182,7 +4183,7 @@ trigger “Viral Enhancers” separately, and can be resolved separately (e.g., 
 other).
 
 If the [Ecology Experts](#ecology-experts) prelude is used to play this card, then the tags on the
-prelude WOULD trigger “Viral Enhancers” to grant 2 plants, as playing “Decomposers” is an effect
+prelude WOULD trigger “Viral Enhancers” to grant 2 plants, as playing “Viral Enhancers” is an effect
 that is part of the action of playing the [Ecology Experts](#ecology-experts) prelude.
 
 ([Source](https://boardgamegeek.com/article/23907366#23907366))
@@ -4266,7 +4267,7 @@ etc.) count toward this Milestone.
 
 Description: 3 city tags.
 
-This award is like Mayor but counts tags rather than actual cities. Tags on blue cards, green
+This Milestone is like Mayor but counts tags rather than actual cities. Tags on blue cards, green
 cards, corporations, and Prelude cards all count towards this Milestone.
 
 Tags on event cards DO NOT count towards this Milestone.
@@ -4666,8 +4667,7 @@ tiles for board placement.
 
 ### Landshaper Am/X:M
 
-Description: 1 city, 1 greenery and 1 special tile. This Award is tallied after the final production
-phase and final conversion of plants to forest tiles for board placement.
+Description: 1 city, 1 greenery and 1 special tile.
 
 This Milestone counts cities both on and off Mars. In addition, the “[Capital](#capital-008-s)” card
 (white city) is a city for all purposes including for this Milestone.
@@ -4726,13 +4726,12 @@ This Milestone requires you to have at least 10 M€ to claim it (in addition to
 standard resource – steel, titanium, plants, energy, and heat), so that after you pay 8 M€ to claim
 it you have 2 or more M€ remaining.
 
-Note that 2 individual resources of each type are required for this award, NOT production.
+Note that 2 individual resources of each type are required for this milestone, NOT production.
 
 ### Metallurgist X:M
 
 Description: 6 (Milestones and Awards)/5 ([Utopia Planitia](#utopia-planitia)) steel and titanium
-production combined. When playing with the Terra Cimmeria board version of this milestone, any
-combination of 5 Earth, Jovian or Venus tags are required to claim this.
+production combined.
 
 ### Metropolist U/X:A
 
@@ -4944,7 +4943,7 @@ Description: 3 cards that have a cost of 20 M€ or more.
 This Milestone counts blue and green cards with a face value greater than or equal to 20 M€,
 regardless of the price that was paid for the card (with discounts, etc.).
 
-Event cards are not counted for this Award.
+Event cards are not counted for this Milestone.
 
 ### Suburbian U/X:A
 
@@ -5026,7 +5025,7 @@ The total amount of heat resources is tallied after the final production phase a
 heat produced during that phase AND any energy cubes converted as part of that production phase.
 
 Note that when resolving this award, floaters on the [Stormcraft](#stormcraft-inc-c) corporation do
-NOT count towards the milestone. These floaters can be used as heat during the game but are still
+NOT count towards this award. These floaters can be used as heat during the game but are still
 considered floaters. ([Source](https://boardgamegeek.com/article/30672335#30672335))
 
 ### Trader U/X:M
@@ -5462,7 +5461,8 @@ titanium for each influence.”
 - The original text did not include the “(max 5)”, when in fact you can count only maximum 5
   colonies for the event resolution.
 
-The first part of the event grants 1 M€ for each colony YOU own.
+The first part of the event increases your M€ production by 1 step per colony YOU own, up to a
+maximum of 5 steps.
 
 ([Source](https://boardgamegeek.com/article/33629564#33629564))
 
@@ -5706,8 +5706,8 @@ used during an action (and Ruling Bonuses are resolved during the Solar Phase NO
 | 24     | S     | “[Predators](#predators-024-s)”                                    |
 | 26     | S     | “[Eos Chasma National Park](#eos-chasma-national-park-026-s)”      |
 | 31     | S     | “[Optimal Aerobraking](#optimal-aerobraking-031-s)”                |
-| 33     | S     | “[GHG Producing Bacteria](#ghg-producing-bacteria-034-s)”          |
 | 33     | S     | “[Regolith Eaters](#regolith-eaters-033-s)”                        |
+| 34     | S     | “[GHG Producing Bacteria](#ghg-producing-bacteria-034-s)”          |
 | 35     | S     | “[Ants](#ants-035-s)”                                              |
 | 37     | S     | “[Nitrogen-Rich Asteroid](#nitrogen-rich-asteroid-037-s)”          |
 | 38     | S     | “[Rover Construction](#rover-construction-038-s)”                  |
@@ -6087,7 +6087,7 @@ standard project, except selling patents, you gain 3 MC._
 Action: Add 1 animal to this card; Bottom - Requires Venus 12%, and that you spend 1 floater from
 any card. 1 VP for each animal on this card._
 
-[Symbiotic Fungus](#symbiotic-fungus-133-s) (4 MC, Blue Card, Maximum -14°C Temperature
+[Symbiotic Fungus](#symbiotic-fungus-133-s) (4 MC, Blue Card, Minimum -14°C Temperature
 Requirement), _Top - Action: Add a microbe to ANOTHER card; Bottom - Requires -14°C or warmer._
 
 <a name="card-tardigrades"></a>Tardigrades (4 MC, Blue Card), _Top - Action: Add 1 microbe to this
