@@ -511,7 +511,7 @@ played, on a subsequent action.
 ### How do Wild tags work?
 
 The Wild tag counts as any tag of your choice only AFTER it is played (i.e. when first playing this
-card it will not activate other project cards/corporations that trigger from specific tags).
+card it will not activate other cards that trigger from specific tags).
 
 This tag, once played, can be counted as a single tag of _any_ type when performing an action:
 
@@ -523,14 +523,8 @@ This tag, once played, can be counted as a single tag of _any_ type when perform
   “[Terraforming Ganymede](#card-terraforming-ganymede)” – gain 1 TR for each Jovian tag you have
   played, “[Satellites](#satellites-175-ce)” – gain 1 M€ production for each Space tag you have)
 
-Note that when performing an action, you must choose one of the 11 tags that could normally be
-face-up in the game to be represented by the Wild tag; it cannot represent a tag other than the 11
-face-up tags that are in the game.
-
-- Although the Event tag is considered a tag, the Wild tag cannot represent this tag as it is a tag
-  that is only on facedown cards.
-- The Wild tag cannot be used as a Venus tag if you are not playing with the Venus expansion that
-  game.
+You may choose any tag type found on at least one other card in the deck, including the Event tag.
+You cannot choose Wild as a tag type. Venus is only available if you are playing with Venus Next.
 
 This card CANNOT be used as a tag:
 
@@ -562,6 +556,7 @@ one Wild tag as multiple Science tags to meet a card requirement).
 
 Choosing a tag type for the Wild tag is not considered playing a tag – as such designating it as a
 Science tag, for example, would not trigger “[Olympus Conference](#olympus-conference-185-ce)”.
+Choosing the Event tag likewise does not trigger “[Media Group](#media-group-109-ce)”.
 
 When playing “[Community Services](#community-services-c04-c)”,
 [Research Network](#research-network) counts as a card with NO tags – i.e., the Wild Tag is not
@@ -576,8 +571,10 @@ turn.
 
 ([Source 1](https://boardgamegeek.com/article/29611733#29611733),
 [Source 2](https://boardgamegeek.com/article/29614168#29614168),
-[Source 3](https://boardgamegeek.com/article/33717702#33717702),
-[Source 4](https://boardgamegeek.com/article/32893227#32893227))
+[Source 3](https://boardgamegeek.com/article/44205387#44205387),
+[Source 4](https://boardgamegeek.com/article/32893227#32893227),
+[Source 5](https://boardgamegeek.com/article/44205759#44205759),
+[Source 6](https://boardgamegeek.com/article/44207247#44207247))
 
 ### Do tags on event cards have any effects?
 
@@ -3394,10 +3391,12 @@ production just to play this card (e.g., as a stalling tactic).
 
 ### Interplanetary Trade X05 (T/PRO)
 
-This card can grant a maximum of 11 M€ production (for the 11 different tags in the game), or 10 if
-playing without Venus Next. A wild tag(s) cannot grant additional production beyond this, as it must
-represent a tag that would normally be face up on your cards (not an imaginary 12th type of tag)
-([Source](https://boardgamegeek.com/article/33717702#33717702))
+Wild tags can represent any normal tag type in the game, including the Event tag. They can represent
+Venus only if playing with Venus Next. This card can therefore grant a maximum of 12 M€ production
+with Venus Next, or 11 without it.
+
+([Source 1](https://boardgamegeek.com/article/44205387#44205387),
+[Source 2](https://boardgamegeek.com/article/44205759#44205759))
 
 ### Inventors’ Guild 006 (CE)
 
