@@ -536,7 +536,7 @@ This card CANNOT be used as a tag:
 - When it is first played, to trigger another card or to obtain a discount – it has NO tag until
   _after_ it is played.
 - At the end of the game when resolving Awards that require specific tags.
-  - A card with a Wild tag would be considered one with NO tag and WOULD count toward the
+  - A card with a Wild tag would be considered one with NO tag and WOULD count towards the
     [Administrator](#administrator-xa) Award from the Milestone and Awards expansion.
 - When drawn during an action that requires a certain tag to be drawn (e.g.,
   “[Search for Life](#search-for-life-005-s)” – _If that card has a microbe tag, add a science
@@ -1890,7 +1890,7 @@ This map (released during the Prelude 2 Kickstarter campaign) was designed for 4
 specifically. It has more map areas on Mars as well as extended global parameter tracks and
 additional ocean areas.
 
-The Olympus Mons and Ascraeus Mons volcanic sites as well as an unmarked space toward the north on
+The Olympus Mons and Ascraeus Mons volcanic sites as well as an unmarked space towards the north on
 this map grant delegates which can be placed in any party from the reserve. (The Lobby is considered
 part of the reserve for supply purposes, and a delegate can be taken from the Lobby if you choose.)
 The two delegates gained from the Olympus Mons space must be placed in the same party.
@@ -2458,7 +2458,7 @@ resource.
 ### Sagitta Frontier Services (PRO)
 
 For resolving the first action of this corporation, the Event tag (yellow tag with downward arrow in
-the center) IS considered a tag, so an event card would NOT be a card without tags that could be
+the centre) IS considered a tag, so an event card would NOT be a card without tags that could be
 drawn to resolve this effect.
 
 An event card with ONLY the Event tag and no others would trigger the second effect (playing a card
@@ -2848,7 +2848,7 @@ special tile.
 
 ### Carbon Nanosystems X52 (P2/PRO)
 
-The graphene resources on this card are always worth the same toward space/city cards and aren’t
+The graphene resources on this card are always worth the same towards space/city cards and aren’t
 affected by the cards “[Advanced Alloys](#advanced-alloys-071-ce)”, [Boom Town](#card-boom-town),
 “[Mercurian Alloys](#mercurian-alloys-x07-tpro)”, [PhoboLog](#phobolog-s) and
 “[Rego Plastics](#rego-plastics-x10-tpro)”.
@@ -3101,7 +3101,7 @@ delegates in the Dominant Party), this card will allow you to have a maximum of 
 meet all 3 of those requirements) or a minimum of 1 influence (if you meet none of those 3
 requirements).
 
-The influence granted by this card counts toward the [Politician](#politician-xa) Award in the
+The influence granted by this card counts towards the [Politician](#politician-xa) Award in the
 Milestones and Awards expansion.
 
 ([Source](https://boardgamegeek.com/article/32615582#32615582))
@@ -4064,7 +4064,7 @@ city ON MARS. There is no defined space for this city on the map (except for on 
 versions of the maps), and it can be placed anywhere in the outer space (black) area of the board
 that is not assigned to something else.
 
-Regardless of where it is placed, this city CANNOT be counted toward the
+Regardless of where it is placed, this city CANNOT be counted towards the
 [Suburbian](#suburbian-uxa) Award from the Milestones and Awards expansion; that Award strictly
 refers to tiles ON MARS.
 
@@ -4252,7 +4252,7 @@ Corporation and Prelude cards without tags are counted for this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) WILL count toward this Award as they are considered no tag when
+[Septem Tribus](#septem-tribus-t)) WILL count towards this Award as they are considered no tag when
 not being used in an action.
 
 ([Source](https://boardgamegeek.com/article/32893227#32893227))
@@ -4263,11 +4263,11 @@ Description: 4 Plant tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Milestone.
 
-Tags on event cards DO NOT count toward this Milestone.
+Tags on event cards DO NOT count towards this Milestone.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4301,11 +4301,11 @@ If playing with this Award, it should be scored BEFORE any other Awards or Miles
 Description: Most Bio tags combined (plant, microbe, and animal). Tags on blue cards, green cards,
 corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4366,13 +4366,13 @@ single type for this Award (up to 6 different types including M€, steel, titan
 and heat). Because Awards are part of final scoring, players would convert plants to greenery tiles
 BEFORE this is scored. As such, if a player uses all of their plants for this conversion with none
 remaining (and none obtained from board placements), **plants** WOULD NOT count as a distinct type
-toward this Award unless the player in question chose NOT to convert plants to greeneries.
+towards this Award unless the player in question chose NOT to convert plants to greeneries.
 
-Each type of resource on your cards would count toward this Award as well – such as Floater
+Each type of resource on your cards would count towards this Award as well – such as Floater
 resources, Microbe resources, Animal resources, Science resources, Asteroid resources, etc.
 
 Cubes on a card on “[Self-Replicating Robots](#self-replicating-robots-210-pro)” DO NOT have a type
-and would not count toward this Award.
+and would not count towards this Award.
 
 ### Constructor Am/X:A
 
@@ -4387,11 +4387,11 @@ Description: Most Building tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4442,11 +4442,11 @@ Description: Most power/energy tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4539,7 +4539,7 @@ This requires at least 2 production in all 6 standard resources in the Standard 
 with 1 production of all resources) or at least 1 production in all 6 standard resources in the
 Corporate Era game at the time when the Milestone is claimed.
 
-Production gained from Prelude cards, corporations and project cards all count toward this
+Production gained from Prelude cards, corporations and project cards all count towards this
 Milestone.
 
 ([Source 1](https://boardgamegeek.com/article/26760872#26760872),
@@ -4563,7 +4563,7 @@ This would include tiles that are not on Mars including “[Dawn City](#card-daw
 “[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
 “[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”.
 
-A tile next to an empty ocean area would still count toward this Award (assuming it is not touching
+A tile next to an empty ocean area would still count towards this Award (assuming it is not touching
 any ocean tile).
 
 This Award is tallied after the final production phase and final conversion of plants to forest
@@ -4617,11 +4617,11 @@ Description: Most Earth tags.
 [Terra Cimmeria](#terra-cimmeria) board. Tags on blue cards, green cards, corporations, and Prelude
 cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4714,7 +4714,7 @@ Only used if including both the Turmoil and the Milestones and Awards expansions
 Description: Most green cards.
 
 This Award counts the number of automated (green) cards in play. Blue cards, Preludes and
-corporations do not count toward this.
+corporations do not count towards this.
 
 ### Manufacturer Am/X:A
 
@@ -4757,7 +4757,7 @@ production phase.
 
 Note that final greenery placement after the final production phase occurs BEFORE any
 Milestones/Awards are scored, so any titanium or steel from placement bonuses would be added and
-counted toward this Award.
+counted towards this Award.
 
 ### Mogul C/X:A
 
@@ -4786,11 +4786,11 @@ Description: Most Science and Space tags combined.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4837,9 +4837,9 @@ Description: Most Party Leaders and influence combined.
 
 This would count the number of Party Leaders you own (out of the 6 parties) and add to it your
 influence at the end of the game (0-4). If you owned the Party Leader for the Dominant party, then you
-would receive credit toward this Award for having a Party Leader AND the influence that it granted.
+would receive credit towards this Award for having a Party Leader AND the influence that it granted.
 
-The influence granted by the “[Event Analysts](#event-analysts-t05-t)” project card counts toward this
+The influence granted by the “[Event Analysts](#event-analysts-t05-t)” project card counts towards this
 Award.
 
 If you are not playing with the Turmoil expansion, this Award can be discarded and another drawn to
@@ -4882,11 +4882,11 @@ Description: Requires that you have 3 Jovian tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Milestone.
 
-Tags on event cards DO NOT count toward this Milestone.
+Tags on event cards DO NOT count towards this Milestone.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4896,11 +4896,11 @@ Description: Most Science tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4910,11 +4910,11 @@ Description: Most Space tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4925,11 +4925,11 @@ Description: 4 Space tags (Milestones and Awards)/5 Space tags
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Milestone.
 
-Tags on event cards DO NOT count toward this Milestone.
+Tags on event cards DO NOT count towards this Milestone.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -5004,11 +5004,11 @@ Description: 5 Earth tags.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Milestone.
 
-Tags on event cards DO NOT count toward this Milestone.
+Tags on event cards DO NOT count towards this Milestone.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -5059,11 +5059,11 @@ Description: Most Jovian and Earth tags combined.
 
 Tags on blue cards, green cards, corporations, and Prelude cards all count towards this Award.
 
-Tags on event cards DO NOT count toward this Award.
+Tags on event cards DO NOT count towards this Award.
 
 Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
 “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
+[Septem Tribus](#septem-tribus-t)) DO NOT count towards this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -5075,10 +5075,10 @@ in play (blue and green cards).
 If using the Milestones/Awards expansion, then this milestone only requires 10 blue and green cards
 played.
 
-Prelude cards or Corporations do not count toward this Milestone (even if they have an action on
+Prelude cards or Corporations do not count towards this Milestone (even if they have an action on
 them).
 
-Unplayed cards on “[Self-Replicating Robots](#self-replicating-robots-210-pro)” DO NOT count toward
+Unplayed cards on “[Self-Replicating Robots](#self-replicating-robots-210-pro)” DO NOT count towards
 this Milestone as cards there are not in play.
 
 ([Source](https://boardgamegeek.com/article/28914878#28914878))
@@ -5115,7 +5115,7 @@ but they are not actually in hand, and so they DO NOT count for this Award.
 ### Zoologist C/X:A
 
 Description: Having most animal and microbe resources combined. Animal or microbe resources on
-project AND corporation cards count toward this Award.
+project AND corporation cards count towards this Award.
 
 ## Prelude Card Clarifications
 
@@ -5420,7 +5420,7 @@ If all of the oceans have been placed already, the first part of this Global Eve
 
 If playing with the Milestones and Awards expansion and the [Hydrologist](#hydrologist-xm)
 Milestone, the player marker on the ocean would also be removed (leaving them with 1 less ocean
-counting toward the milestone).
+counting towards the milestone).
 
 Standard resources gained by the event include each of the 6 resources printed on player mats (M€,
 steel, titanium, plants, energy, or heat). If you obtain multiple standard resources from this
@@ -5489,7 +5489,7 @@ This event counts tiles that YOU OWN to calculate your penalty.
 
 Each tile is only counted once, even if next to multiple ocean tiles.
 
-A tile next to an empty ocean space would NOT count toward this event (there must be an ocean tile
+A tile next to an empty ocean space would NOT count towards this event (there must be an ocean tile
 on that space).
 
 ### Paradigm Breakdown (Scientific Consensus)
