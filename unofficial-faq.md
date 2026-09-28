@@ -301,12 +301,11 @@ during game setup, BEFORE selecting cards/Preludes/Corporations.
 
 ### After a corporation performs their mandatory first action, do they get 2 more actions that turn?
 
-No. For [Arcadian Communities](#arcadian-communities-pro),
-[Celestic](#celestic-vn), [Inventrix](#inventrix-s), [Morning Star Inc.](#morning-star-inc-vn), [Poseidon](#card-poseidon), [Splice](#splice-pro),
-[Tharsis Republic](#tharsis-republic-s), [Valley Trust](#valley-trust-p),
-[Philares](#philares-pro), [Aridor](#aridor-c) and [Vitor](#vitor-p), if
-you perform your mandatory first action, you get 1 additional action that turn (if you so choose)
-but no more. The mandatory action counts as one of the 2 actions you get that turn.
+No. If you perform your mandatory first action, you get 1 additional action that turn (if you so
+choose) but no more. The mandatory action counts as one of the 2 actions you get that turn. Examples
+of corporations with mandatory first actions (not an exhaustive list): [Aridor](#aridor-c),
+[Celestic](#celestic-vn), [Inventrix](#inventrix-s), [Tharsis Republic](#tharsis-republic-s) and
+[Valley Trust](#valley-trust-p).
 
 If you have two (or more) corporations with a mandatory first action (with the [Merger](#merger) +/-
 [Double Down](#double-down) preludes) then both “first actions” are resolved as separate parts of
@@ -315,13 +314,11 @@ first turn of generation 1.
 
 ### Can a corporation with a mandatory first action pass before performing it in the first generation?
 
-Yes. This would apply to certain corporations including
-[Arcadian Communities](#arcadian-communities-pro),
-[Celestic](#celestic-vn), [Inventrix](#inventrix-s), [Morning Star Inc.](#morning-star-inc-vn), [Poseidon](#card-poseidon), [Splice](#splice-pro),
-[Tharsis Republic](#tharsis-republic-s), [Valley Trust](#valley-trust-p) and [Vitor](#vitor-p). In
-this case, they would carry out the production phase once the 1st generation is finished then
-proceed with the research phase. As their first action of generation 2, they would perform their
-mandatory action(s).
+Yes. Examples of corporations with mandatory first actions (not an exhaustive list) are
+[Aridor](#aridor-c), [Celestic](#celestic-vn), [Inventrix](#inventrix-s),
+[Tharsis Republic](#tharsis-republic-s) and [Valley Trust](#valley-trust-p). In this case, they
+would carry out the production phase once the 1st generation is finished then proceed with the
+research phase. As their first action of generation 2, they would perform their mandatory action(s).
 
 ([Source](https://boardgamegeek.com/article/25942959#25942959))
 
@@ -674,35 +671,48 @@ themselves (“[Symbiotic Fungus](#symbiotic-fungus-133-s)”,
 
 Some common resource types that are associated with many cards include:
 
-- Floaters (“[Extractor Balloons](#card-extractor-balloons)”, “[Dirigibles](#dirigibles-222-vn)”,
-  [Celestic](#celestic-vn), etc.)
+- Floaters – examples (not an exhaustive list): [Celestic](#celestic-vn),
+  “[Dirigibles](#dirigibles-222-vn)”, “[Extractor Balloons](#card-extractor-balloons)”,
+  [Stormcraft Inc.](#stormcraft-inc-c) and “[Stratopolis](#card-stratopolis)”.
 
-- Animals (“[Fish](#card-fish)”, “[Stratospheric Birds](#stratospheric-birds-249-vn)”, “[Ecological Zone](#ecological-zone-128-s)”, [Arklight](#card-arklight)
-  etc.)
-- Microbes (“[Ants](#ants-035-s)”, “[Nitrite Reducing Bacteria](#card-nitrite-reducing-bacteria)”,
-  “[Venusian Insects](#card-venusian-insects)”, etc.) Some resources that have specific cards
-  associated with them include:
-- Science resources (“[Search for Life](#search-for-life-005-s)”, “[Physics Complex](#card-physics-complex)”)
-- Asteroid resources (“[Rotator Impacts](#rotator-impacts-243-vn)”)
+- Animals – examples (not an exhaustive list): [Arklight](#card-arklight),
+  “[Ecological Zone](#ecological-zone-128-s)”, “[Fish](#card-fish)”, “[Pets](#pets-172-s)” and
+  “[Stratospheric Birds](#stratospheric-birds-249-vn)”.
+- Microbes – examples (not an exhaustive list): “[Ants](#ants-035-s)”,
+  “[Decomposers](#decomposers-131-s)”, “[GHG Producing Bacteria](#ghg-producing-bacteria-034-s)”,
+  “[Nitrite Reducing Bacteria](#card-nitrite-reducing-bacteria)” and
+  “[Tardigrades](#card-tardigrades)”. Some resources that have specific cards associated with them
+  include:
+- Science resources ([Applied Science](#card-applied-science),
+  “[Olympus Conference](#olympus-conference-185-ce)”, “[Physics Complex](#card-physics-complex)”,
+  “[Search for Life](#search-for-life-005-s)” and [Spire](#card-spire))
+- Asteroid resources (“[Asteroid Deflection System](#asteroid-deflection-system-x14-bpro)”,
+  “[Asteroid Hollowing](#card-asteroid-hollowing)”, “[Asteroid Rights](#card-asteroid-rights)”,
+  [AstroDrill](#card-astrodrill), “[Comet Aiming](#card-comet-aiming)”,
+  “[Directed Impactors](#directed-impactors-x19-bpro)”, “[Icy Impactors](#icy-impactors-x47-pro)”,
+  [Kuiper Cooperative](#card-kuiper-cooperative), [Main Belt Asteroids](#card-main-belt-asteroids)
+  and “[Rotator Impacts](#rotator-impacts-243-vn)”)
 - Fighter resources (“[Security Fleet](#card-security-fleet)”)
 
 - Camp resources (“[Refugee Camps](#card-refugee-camps)”)
 
-- Disease resources ([Pharmacy Union](#pharmacy-union-bpro)) Typically, resources
-  whether on your player board or on a project/corporation card, are tracked
-using the standard resource cubes (bronze = 1, silver = 5, gold = 10).
+- Disease resources (“[Hospitals](#card-hospitals)” and [Pharmacy Union](#pharmacy-union-bpro))
+  Typically, resources whether on your player board or on a project/corporation card, are tracked
+  using the standard resource cubes (bronze = 1, silver = 5, gold = 10).
 
 ### When can my actions affect an opponent’s production/resources?
 
 Only when you see the red border around a resource or production symbol can you affect another
-player. Examples include:
+player. Examples (not an exhaustive list) include:
 
-- “[Deimos Down](#deimos-down-x32-bpro)” and other asteroids, which can remove plant resources from
-  other players.
-- “[Fish](#card-fish)”, which can be played to reduce another player’s plant production.
-- “[Flooding](#card-flooding)”, which can remove M€ from another player when played.
 - “[Ants](#ants-035-s)”, which can be used every generation to remove a microbe from another
   player’s microbe card.
+- “[Fish](#card-fish)”, which can be played to reduce another player’s plant production.
+- “[Flooding](#card-flooding)”, which can remove M€ from another player when played.
+- “[Giant Ice Asteroid](#card-giant-ice-asteroid)”, which can remove plant resources from other
+  players.
+- “[Predators](#predators-024-s)”, which can be used every generation to remove an animal from
+  another player’s animal card.
 
 Cards that add or remove resources without the red border around the resources CANNOT be added or
 removed from another player’s card – e.g., “[CEO’s Favorite Project](#ceos-favorite-project-149-ce)”
@@ -714,9 +724,8 @@ remove the resources from. You cannot remove resources from multiple cards or mu
 Removing resources from an opponent is optional (unless stated otherwise on the card) – you can
 remove less than stated on the card, or none at all when playing it. The player that is removing
 resources (the active player) gets to choose what card to remove them from. If removing resources is
-part of the cost of an action (e.g., “Ants” or “[Predators](#predators-024-s)”) then
-the action CANNOT be performed unless the appropriate resource is removed (either from your own card
-or an opponent’s).
+part of the cost of an action (“Ants” or “Predators”) then the action CANNOT be performed unless the
+appropriate resource is removed (either from your own card or an opponent’s).
 
 When removing production from an opponent, you must choose 1 opponent to remove the production from.
 You cannot remove production from multiple opponents using one card. Removing production is
@@ -748,14 +757,13 @@ one action, you must choose which action to perform. Note that playing a blue ca
 printed action are two separate actions. When you play a blue card, the action is not automatically
 triggered – you must use the action at some point afterwards.
 
-This also applies to corporations that have an action that you can perform
-([Arcadian Communities](#arcadian-communities-pro), [Celestic](#celestic-vn),
-[Robinson Industries](#robinson-industries-p), [UNMI](#unmi-s), [Viron](#viron-vn)). When playing
-Viron, you can use another action
-card a second time – once again choosing _either_ action (if there is more than one on the card). If
-a card with two actions is used twice this way, you can choose to perform a different action the
-second time (e.g., use an action to add a cube to a card, then use Viron to remove the
-cube for an effect in the same generation).
+This also applies to corporations that have an action that you can perform. Examples (not an
+exhaustive list) are [Celestic](#celestic-vn), [Robinson Industries](#robinson-industries-p),
+[Stormcraft Inc.](#stormcraft-inc-c), [UNMI](#unmi-s) and [Viron](#viron-vn). When playing Viron,
+you can use another action card a second time – once again choosing _either_ action (if there is
+more than one on the card). If a card with two actions is used twice this way, you can choose to
+perform a different action the second time (e.g., use an action to add a cube to a card, then use
+Viron to remove the cube for an effect in the same generation).
 
 Note that the above applies only to blue cards with actions (red arrows) on them. Blue cards that
 have “Effect” on them can be triggered unlimited times per generation, as long as you meet the
@@ -803,9 +811,9 @@ Yes. Specifically:
 - Any action on a blue card that raises a global parameter can still be performed after that
   parameter has been maxed.
 
-- Certain cards that convert energy to oxygen + titanium/steel (“[Steelworks](#steelworks-103-s)”,
-  “[Ironworks](#ironworks-101-s)”, “[Ore Processor](#ore-processor-104-s)”) can still be used after oxygen has been maxed to
-  obtain the titanium or steel.
+- Certain cards that convert energy to oxygen + titanium/steel (“[Ironworks](#ironworks-101-s)”,
+  “[Ore Processor](#ore-processor-104-s)” and “[Steelworks](#steelworks-103-s)”) can still be used
+  after oxygen has been maxed to obtain the titanium or steel.
 
 - You can pay for the [Aquifer](#what-are-standard-projects) standard project (18 M€) if there are no oceans left, the Asteroid
   standard project (14 M€) if temperature is maxed, or the Air Scrapping standard project (15 M€) if
@@ -1188,8 +1196,8 @@ city, or reserved for another player. The following would be reserved areas:
 - “[Ganymede Colony](#ganymede-colony-081-s)” and “[Phobos Space Haven](#card-phobos-space-haven)” on
   all boards.
 
-- “[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-  “[Dawn City](#card-dawn-city)” and “[Maxwell Base](#maxwell-base-238-vn)” on the Venus Board.
+- “[Dawn City](#card-dawn-city)”, “[Luna Metropolis](#card-luna-metropolis)”,
+  “[Maxwell Base](#maxwell-base-238-vn)” and “[Stratopolis](#card-stratopolis)” on the Venus Board.
 
 - A space reserved using the “[Land Claim](#land-claim-066-ce)” card.
 
@@ -1231,10 +1239,9 @@ differentiated from volcanic areas as they lack the **black bolded text**.
 Volcanic areas are not considered “reserved”, and therefore any tile can be placed on them, not just
 volcanic tiles.
 
-That being said, the cards associated with volcanoes (including
-“[Lava Tube Settlement](#lava-tube-settlement-p37-p)”, “[Lava Flows](#lava-flows-140-s)”) can ONLY
-be placed on volcanic areas on the appropriate maps. If these spots are all taken on those maps, you
-cannot play those cards.
+That being said, the cards associated with volcanoes (“[Lava Flows](#lava-flows-140-s)” and
+“[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) can ONLY be placed on volcanic areas on the
+appropriate maps. If these spots are all taken on those maps, you cannot play those cards.
 
 On the Hellas and Utopia Planitia maps there are no volcanoes.
 Therefore, you can place “Lava Flows” on any non-reserved area and
@@ -1333,7 +1340,9 @@ There are several general rules to follow when placing tiles on the board:
 - City tiles cannot be place next to another city on Mars. This includes those from the [City](#what-are-standard-projects)
   Standard Project, the initial city granted to [Tharsis Republic](#tharsis-republic-s), city tiles
   granted by Prelude cards as well as any city placed by a card UNLESS THE CARD STATES OTHERWISE.
-  - Some exceptions specified on cards include “[Noctis City](#noctis-city-017-s)” on the standard ([Tharsis](#tharsis-standard)) map, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)” on any map with volcanoes, and
+  - Some exceptions specified on cards include “[Kaguya Tech](#card-kaguya-tech)”,
+    “[Lava Tube Settlement](#lava-tube-settlement-p37-p)” on any map with volcanoes,
+    “[Noctis City](#noctis-city-017-s)” on the standard ([Tharsis](#tharsis-standard)) map, and
     “[Urbanized Area](#card-urbanized-area)”.
 
 - The “[Stanford Torus](#stanford-torus-x12-tpro)” city can be placed anywhere in space surrounding
@@ -1341,18 +1350,20 @@ There are several general rules to follow when placing tiles on the board:
   - Newer versions of the maps may have a reserved space for this city.
 
 - Greenery tiles (unless a card specifies otherwise) MUST be placed next to a **tile** that the
-  active player owns (whether that is a city or another tile). For this purpose, the cubes placed
-  by “[Land Claim](#land-claim-066-ce)”, by [Arcadian Communities](#arcadian-communities-pro) or by
-  the “[Mars Nomads](#card-mars-nomads)” card DO NOT count as tiles. If a greenery
-  is the first tile that a player is placing on Mars (i.e., the player does not yet own any tiles on
-  Mars) OR spaces adjacent to his/her tiles are ALL occupied, then the player can choose ANY
-  non-reserved spot to place the greenery.
+  active player owns (whether that is a city or another tile). For this purpose, the cubes placed by
+  [Arcadian Communities](#arcadian-communities-pro), “[Land Claim](#land-claim-066-ce)” or
+  “[Mars Nomads](#card-mars-nomads)” DO NOT count as tiles. If a greenery is the first tile that a
+  player is placing on Mars (i.e., the player does not yet own any tiles on Mars) OR spaces adjacent
+  to his/her tiles are ALL occupied, then the player can choose ANY non-reserved spot to place the
+  greenery.
 
 - Unless a card specifies otherwise, ocean tiles can only be placed on the reserved blue coloured
   spots on the board.
 
 - Non-ocean tiles cannot be played on the reserved blue coloured ocean spots on Mars unless a card
-  says otherwise (there are 3 cards that are exceptions).
+  says otherwise (there are 4 cards that are exceptions: “Kaguya Tech”,
+  “[Mangrove](#mangrove-059-s)”, “[Mohole Area](#card-mohole-area)” and
+  “[Protected Valley](#protected-valley-174-s)”).
 
 - Only an Arcadian Communities player can place tiles on spots that
   he/she has reserved.
@@ -1632,7 +1643,7 @@ corporations, Prelude cards, and project cards are chosen.
 ### How many colonies can I place on a single tile?
 
 Players are limited to placing only 1 colony on each tile. The exceptions to this involve 2 cards:
-“[Space Port Colony](#space-port-colony-c40-c)” and “[Research Colony](#research-colony-c34-c)”,
+“[Research Colony](#research-colony-c34-c)” and “[Space Port Colony](#space-port-colony-c40-c)”,
 which specify that you can place the colony provided by the card on a tile you already have a colony
 on. In fact, if the same player plays both cards, they can own _all three_ colonies on a single
 tile.
@@ -1900,14 +1911,14 @@ provide a single standard resource when a tile is placed on any of these spaces.
 resources include M€, steel, titanium, plants, energy, and heat.
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
-(e.g., “[Lava Flows](#lava-flows-140-s)”, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”)
-CANNOT be played.
+(“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
+be played.
 
 ### Elysium
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
-(e.g., “[Lava Flows](#lava-flows-140-s)”, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”)
-CANNOT be played.
+(“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
+be played.
 
 ### Hellas
 
@@ -1939,15 +1950,15 @@ If there are no valid colony spots for you remaining, you still must pay 5 M€ 
 Curiosity (receiving nothing in return).
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
-(e.g., “[Lava Flows](#lava-flows-140-s)”, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”)
-CANNOT be played.
+(“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
+be played.
 
 ### Tharsis (Standard)
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
-(e.g., “[Lava Flows](#lava-flows-140-s)”, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”)
-CANNOT be played. The “[Noctis City](#noctis-city-017-s)” space on this board is reserved for a city
-placed by the specific card of the same name.
+(“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
+be played. The “[Noctis City](#noctis-city-017-s)” space on this board is reserved for a city placed
+by the specific card of the same name.
 
 ### Utopia Planitia
 
@@ -1973,8 +1984,8 @@ you are not playing with the Turmoil expansion, the Viking 1 and Viking 2 delega
 can be ignored with these spaces being treated as normal empty spaces.
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
-(e.g., “[Lava Flows](#lava-flows-140-s)”, “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”)
-CANNOT be played.
+(“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
+be played.
 
 ([Source](https://boardgamegeek.com/article/28391249#28391249))
 
@@ -2029,8 +2040,10 @@ Only blue cards, green cards, Corporations and Preludes played trigger the effec
 corporation. Event cards DO NOT trigger Aridor’s effect.
 
 Each new tag will trigger this effect separately (e.g., a card with 2, 3 or 4 new tags will increase
-M€ production 2, 3 or 4 steps respectively). The wild tag from “[Research Coordination](#research-coordination-p40-p)” or from the
-[Research Network](#research-network) Prelude card does not trigger this corporation’s effect, as these tags can’t be
+M€ production 2, 3 or 4 steps respectively). The wild tags from
+[Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t) do not trigger this corporation’s effect, as these tags can’t be
 used as ANY tag until they are already in play and you are performing a completely different action.
 
 If the starting effect is used to put [Titan](#titan), [Enceladus](#enceladus), or
@@ -2200,10 +2213,10 @@ the Mon Insurance player decreasing their opponents’ production). Therefore, t
 this starting effect alone. They must play another card reducing production or removing resources
 from another player to be targeted by “Law Suit”.
 
-If a player plays a card during the Prelude phase (with the [Ecology Experts](#ecology-experts) or
-[Excentric Sponsor](#excentric-sponsor) preludes) that reduces another players production or removes
-resources, the victim must be compensated by Mons Insurance even though this occurs prior to the
-action phase.
+If a player plays a card during the Prelude phase (with the [Ecology Experts](#ecology-experts),
+[Excentric Sponsor](#excentric-sponsor) or [Head Start](#head-start) preludes) that reduces another
+players production or removes resources, the victim must be compensated by Mons Insurance even
+though this occurs prior to the action phase.
 
 If the active player chooses to trigger Mons Insurance’s effect at any point in an action when the
 Mons player has no money, then no money needs to be paid to the attacked player (even if the Mons
@@ -2229,10 +2242,10 @@ opponent) Mons Insurance must pay 3 M€ for each instance to the respective vic
 victim of both attacks was the same) for a total of 6 M€.
 
 When any cards state to “steal” resources, this counts as a single action of removing resources from
-one player and adding them to another player (“[Hired Raiders](#hired-raiders-124-ce)”,
-“Law Suit”, “[Air Raid](#air-raid-c02-c)”). The Mons Insurance effect cannot
-be triggered in between the removal and addition of resources; the full transfer of resources must
-be resolved, and THEN Mons Insurance must compensate the victim.
+one player and adding them to another player (“[Air Raid](#air-raid-c02-c)”,
+“[Hired Raiders](#hired-raiders-124-ce)” and “Law Suit”). The Mons Insurance effect cannot be
+triggered in between the removal and addition of resources; the full transfer of resources must be
+resolved, and THEN Mons Insurance must compensate the victim.
 
 If the ability of [Pharmacy Union](#pharmacy-union-bpro) is triggered by another
 player playing a microbe tag (lose 4 M€ and add a disease token), Mons Insurance DOES NOT have to
@@ -2284,10 +2297,9 @@ played, nor does it require compensation by [Mons Insurance](#mons-insurance-pro
 The “disease” resource that is stored on Pharmacy Union is NOT the same as a microbe resource.
 
 The Science tag card that is drawn by the Pharmacy Union player is obtained when the corporation is
-PLAYED, and NOT during the first action of the game. This is different than other similar
-corporations, like [Morning Star Inc.](#morning-star-inc-vn), [Celestic](#celestic-vn),
-[Splice](#splice-pro), etc. but similar to [Point Luna](#point-luna-p) (which draws a card as soon
-as it is played).
+PLAYED, and NOT during the first action of the game. This is different than
+[Celestic](#celestic-vn), [Morning Star Inc.](#morning-star-inc-vn) and [Splice](#splice-pro) but
+similar to [Point Luna](#point-luna-p) (which draws a card as soon as it is played).
 
 When played, this corporation requires you to reveal cards (to all players) from the deck until you
 find one card with a science tag; then, take that card into hand and discard all other cards that
@@ -2306,9 +2318,8 @@ When Pharmacy Union is flipped facedown, it is added to the player’s event pil
 - This card is counted as a played event card for the Global Event
   “[Celebrity Leaders (Solarnet)](#celebrity-leaders-solarnet)”.
 
-- It DOES NOT trigger “[Media Group](#media-group-109-ce)” or
-  [Interplanetary Cinematics](#interplanetary-cinematics-s) because it does not count as
-  “playing” an event.
+- It DOES NOT trigger [Interplanetary Cinematics](#interplanetary-cinematics-s) or
+  “[Media Group](#media-group-109-ce)” because it does not count as “playing” an event.
 
 If a card with both a microbe tag and a science tag is played as this corporation, the following
 should be considered:
@@ -2363,9 +2374,9 @@ A “new adjacency” refers to a border between your tile and another player’
 - This effect is NOT triggered when playing oceans (either yourself or another player), as no player
   can own these tiles.
 - This corporation’s Effect CANNOT be triggered by any city that is not on Mars
-  (“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-  “[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-  “[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”).
+  (“[Dawn City](#card-dawn-city)”, “[Ganymede Colony](#ganymede-colony-081-s)”,
+  “[Luna Metropolis](#card-luna-metropolis)”, “[Maxwell Base](#maxwell-base-238-vn)”,
+  “[Phobos Space Haven](#card-phobos-space-haven)” and “[Stratopolis](#card-stratopolis)”).
 - Regardless of where it is placed, “[Stanford Torus](#stanford-torus-x12-tpro)” is considered a
   city that is not on Mars and cannot form any adjacencies.
 
@@ -2375,14 +2386,14 @@ A “new adjacency” refers to a border between your tile and another player’
 ### PhoboLog (S)
 
 The effect of this corporation (Your titanium resources are worth 1 M€ extra) stacks with the
-“[Advanced Alloys](#advanced-alloys-071-ce)” and “[Mercurian Alloys](#mercurian-alloys-x07-tpro)”
-project cards as well as with the Ruling Policy of the
-[Unity](#unity) party.
+“[Advanced Alloys](#advanced-alloys-071-ce)” project card, the [Boom Town](#card-boom-town) Prelude
+and the “[Mercurian Alloys](#mercurian-alloys-x07-tpro)” project card, as well as with the Ruling
+Policy of the [Unity](#unity) party.
 
 The effect of this corporation would also increase the value of titanium spent on certain blue
-actions on which titanium can be used (e.g.
-“[Water Import from Europa](#water-import-from-europa-012-s)”,
-“[Rotator Impacts](#rotator-impacts-243-vn)”, etc.).
+actions on which titanium can be used (“[Directed Impactors](#directed-impactors-x19-bpro)”,
+“[Icy Impactors](#icy-impactors-x47-pro)”, “[Rotator Impacts](#rotator-impacts-243-vn)” and
+“[Water Import from Europa](#water-import-from-europa-012-s)”).
 
 ### Point Luna (P)
 
@@ -2393,10 +2404,10 @@ effect.
 
 ### Polyphemos (C)
 
-Cards purchased into hand cost 5 M€ rather than 3 M€; this includes the starting 10
-cards, cards from every Research phase, and cards purchased from
-“[Business Network](#business-network-110-ce)”
-or “[Inventors’ Guild](#inventors-guild-006-ce)”.
+Cards purchased into hand cost 5 M€ rather than 3 M€; this includes the starting 10 cards, cards
+from every Research phase, and cards purchased from “[Business Network](#business-network-110-ce)”,
+“[Inventors’ Guild](#inventors-guild-006-ce)” or the buy option on
+“[Venus Orbital Survey](#card-venus-orbital-survey)”.
 
 Cards obtained from “[Restricted Area](#card-restricted-area)” do not cost any more than the 2 M€
 required to use that action.
@@ -2501,7 +2512,8 @@ steps, for example, would be considered 2 actions (and you would have to wait un
 perform any more actions).
 
 Floaters on this card can be consumed to play “[Local Heat Trapping](#local-heat-trapping-190-s)” or
-to use the action on “[Caretaker Contract](#caretaker-contract-154-ce)”. They can also be converted to steel with
+to use the actions on “[Caretaker Contract](#caretaker-contract-154-ce)” and
+“[Directed Heat Usage](#card-directed-heat-usage)”. They can also be converted to steel with
 “[Meltworks](#meltworks-x21-bpro)”, although if you use 3 floaters (6 heat worth) for the action,
 you do not get “change” in the form of 1 heat back. Floaters on this card do NOT count towards the
 [Thermalist](#thermalist-txa) Award.
@@ -2531,9 +2543,10 @@ Even though this corporation states “When you play an Earth _card_” the disc
 
 ### TerraLabs (T)
 
-This corporation’s ability allows cards to be purchased for 1 M€ each at the beginning of the
-game, during each research phase, and using the actions of “[Business Network](#business-network-110-ce)”
-or “[Inventors’ Guild](#inventors-guild-006-ce)”.
+This corporation’s ability allows cards to be purchased for 1 M€ each at the beginning of the game,
+during each research phase, and using the actions of “[Business Network](#business-network-110-ce)”,
+“[Inventors’ Guild](#inventors-guild-006-ce)” or the buy option on
+“[Venus Orbital Survey](#card-venus-orbital-survey)”.
 
 Cards obtained from “[Restricted Area](#card-restricted-area)” will still require that 2 M€ be paid
 for the action.
@@ -2631,10 +2644,11 @@ takes their first action, a 4th award would be activated (as card functions over
 explicit).
 
 The effect of this corporation (receive 3 M€ when playing a card with a non-negative VP) includes
-cards with multiplier VP effects (e.g., “[Fish](#card-fish)” – 1 VP/animal,
-“[Ganymede Colony](#ganymede-colony-081-s)” – 1 VP/Jovian tag,
-“[Immigration Shuttles](#immigration-shuttles-198-s)” – 1 VP/3 cities in play, etc.) as these are
-all non-negative values.
+cards with multiplier VP effects (examples, not an exhaustive list: “[Fish](#card-fish)” – 1
+VP/animal, “[Ganymede Colony](#ganymede-colony-081-s)” – 1 VP/Jovian tag,
+“[Immigration Shuttles](#immigration-shuttles-198-s)” – 1 VP/3 cities in play,
+“[Physics Complex](#card-physics-complex)” – 2 VP/science resource, and
+“[Security Fleet](#card-security-fleet)” – 1 VP/fighter) as these are all non-negative values.
 
 When playing this corporation, the “?” VP icon triggers its own Effect, thus granting 3 M€
 immediately.
@@ -2669,9 +2683,9 @@ requirements (tag requirements, TR requirements, etc.).
 ### Advanced Alloys 071 (CE)
 
 This Effect increases the value of your titanium to 4 M€ per resource, and for steel to 3 M€ per
-resource. If you are playing [PhoboLog](#phobolog-s) or have the
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” card the Effect stacks, and your titanium resources
-are now worth 5 M€ per resource (or 6 M€ if you have all three).
+resource. If you have “[Mercurian Alloys](#mercurian-alloys-x07-tpro)” or [PhoboLog](#phobolog-s)
+the Effect stacks, and your titanium resources are now worth 5 M€ per resource (or 6 M€ if you have
+all three).
 
 The Ruling Policy of the [Unity](#unity) party also stacks with these effects, increasing the value
 of your titanium by an additional 1 M€ when spending them while this party is ruling.
@@ -2688,9 +2702,10 @@ which allows you to use titanium towards the cost of the action or
 “[Aquifer Pumping](#aquifer-pumping-187-s)”, which allows you to use steel towards the cost of the
 action).
 
-This card does NOT increase the amount you obtain from “[Space Elevator](#space-elevator-013-ce)” or
-“[Electro Catapult](#electro-catapult-069-ce)” when converting steel to M€; you would still obtain
-only 5 M€ and 7 M€ respectively when using these cards.
+This card does NOT increase the amount you obtain from
+“[Electro Catapult](#electro-catapult-069-ce)” or “[Space Elevator](#space-elevator-013-ce)” when
+converting steel to M€; you would still obtain only 7 M€ and 5 M€ respectively when using these
+cards.
 
 ([Source](https://boardgamegeek.com/article/36644326#36644326))
 
@@ -2823,8 +2838,10 @@ TerraLabs) rather than 3 M€.
 ### Capital 008 (S)
 
 This tile is considered a city; therefore, it activates all city triggers
-(“[Immigrant City](#immigrant-city-200-s)” – 1 M€ Production, “[Pets](#pets-172-s)” – 1 Animal,
-etc.), will benefit from greeneries placed around it (in addition to the ocean tiles), and follows
+(“[Hospitals](#card-hospitals)” – 1 disease, “[Immigrant City](#immigrant-city-200-s)” – 1 M€
+Production, “[Pets](#pets-172-s)” – 1 Animal, “[Rover Construction](#rover-construction-038-s)” – 2
+M€, [Tharsis Republic](#tharsis-republic-s) – 1 M€ Production and “[Vermin](#card-vermin)” – 1
+animal), will benefit from greeneries placed around it (in addition to the ocean tiles), and follows
 all city placement restrictions (not adjacent to another city). It counts as a city for other cards,
 as well as for the [Mayor](#mayor-tm) milestone.
 
@@ -2835,7 +2852,9 @@ special tile.
 ### Carbon Nanosystems X52 (P2/PRO)
 
 The graphene resources on this card are always worth the same toward space/city cards and aren’t
-affected by cards like “[Advanced Alloys](#advanced-alloys-071-ce)”, [PhoboLog](#phobolog-s), etc.
+affected by the cards “[Advanced Alloys](#advanced-alloys-071-ce)”, [Boom Town](#card-boom-town),
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)”, [PhoboLog](#phobolog-s) and
+“[Rego Plastics](#rego-plastics-x10-tpro)”.
 
 ### Caretaker Contract 154 (CE)
 
@@ -2864,13 +2883,10 @@ to a city. It can be placed on any non-reserved area.
 ### Community Services C04 (C)
 
 This card counts only YOUR OWN cards without tags, not every player’s tagless cards. The wild tag
-cards “[Research Coordination](#research-coordination-p40-p)”,
-[Research Network](#research-network) and
-[Septem Tribus](#septem-tribus-t)
-count as cards with no tags for
-“Community Services”;
-the wild tag counts as _no tag
-at all_ until you choose it to be one for a given action.
+cards [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t) count as cards with no tags for “Community Services”; the wild tag
+counts as _no tag at all_ until you choose it to be one for a given action.
 
 In addition to blue and green cards, “Community Services” includes both
 corporations and Prelude cards that do not have tags when resolving it.
@@ -2962,9 +2978,10 @@ You can use titanium towards the total cost for this action (6 M€); you may mi
 and M€ to pay the 6 M€ cost to place an asteroid (you do not have to pay all in M€ or all in
 titanium).
 
-If you are playing [PhoboLog](#phobolog-s), have “[Advanced Alloys](#advanced-alloys-071-ce)” or
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” (or multiple of these) your titanium is worth more
-towards paying for a resource on this card, just like paying for space cards.
+If you have “[Advanced Alloys](#advanced-alloys-071-ce)”,
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” or [PhoboLog](#phobolog-s) (or multiple of these)
+your titanium is worth more towards paying for a resource on this card, just like paying for space
+cards.
 
 Similarly, if the [Unity](#unity) party is ruling, the Ruling Policy would increase the value of
 titanium spent on this action.
@@ -3116,9 +3133,10 @@ out.
 Each distinct tag will trigger this effect separately. For example, a card that has both a plant and
 an animal tag will generate 2 M€ for each, for a total of 4 M€.
 
-This card CAN be played during the Prelude phase with the [Ecology Experts](#ecology-experts) or
-[Excentric Sponsor](#excentric-sponsor) preludes, as the [Greens](#greens) are ruling during the
-Prelude phase (although their Ruling policy is not active until the Action phase).
+This card CAN be played during the Prelude phase with the [Ecology Experts](#ecology-experts),
+[Excentric Sponsor](#excentric-sponsor) or [Head Start](#head-start) preludes, as the
+[Greens](#greens) are ruling during the Prelude phase (although their Ruling policy is not active
+until the Action phase).
 
 ([Source](https://boardgamegeek.com/article/33526434#33526434))
 
@@ -3189,10 +3207,10 @@ gains any placement bonuses as well as the Terraform Rating from placing the oce
 
 This card will allow a player to raise their M€ production by 1 M€ for every city placed thereafter
 (including the city placed by the “Immigrant City” card itself). This includes cities not on Mars
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”), as well as “[Capital](#capital-008-s)”.
+(“[Dawn City](#card-dawn-city)”, “[Ganymede Colony](#ganymede-colony-081-s)”,
+“[Luna Metropolis](#card-luna-metropolis)”, “[Maxwell Base](#maxwell-base-238-vn)”,
+“[Phobos Space Haven](#card-phobos-space-haven)”, “[Stanford Torus](#stanford-torus-x12-tpro)” and
+“[Stratopolis](#card-stratopolis)”), as well as “[Capital](#capital-008-s)”.
 
 When playing this card, you must reduce your energy production by 1, reduce your M€ production by 2,
 and raise your M€ production by 1 when the effect is triggered. This means that the net change is -1
@@ -3353,10 +3371,11 @@ For example, when a player plays “Law Suit” after having previously played
 “Media Group” active, it would not be triggered since the target is not the
 one playing the event.
 
-If a player plays a card during the Prelude phase (with the [Ecology Experts](#ecology-experts) or
-[Excentric Sponsor](#excentric-sponsor) preludes) that reduces another players production or removes
-resources, the victim can play “Law Suit” against the attacking player in the action phase of the
-first generation (as the Prelude phase is considered part of generation 1).
+If a player plays a card during the Prelude phase (with the [Ecology Experts](#ecology-experts),
+[Excentric Sponsor](#excentric-sponsor) or [Head Start](#head-start) preludes) that reduces another
+players production or removes resources, the victim can play “Law Suit” against the attacking player
+in the action phase of the first generation (as the Prelude phase is considered part of generation
+1).
 
 This event would count towards the [Legend](#legend-exm) milestone for the person who is _targeted_
 by it (as it will be in their event pile after it is played).
@@ -3503,7 +3522,8 @@ This tile MUST be placed on a space that grants 1 (or more) steel OR 1 (or more)
 - It CAN be placed on spots that grant other resources in addition to steel or titanium.
 
 - It MUST be placed next to a tile you own – not only next to a marker from
-  “[Land Claim](#land-claim-066-ce)” or [Arcadian Communities](#arcadian-communities-pro).
+  [Arcadian Communities](#arcadian-communities-pro), “[Land Claim](#land-claim-066-ce)” or
+  “[Mars Nomads](#card-mars-nomads)”.
 
 - If you have no tiles on the board, this card cannot be played.
 
@@ -3579,11 +3599,11 @@ city can belong to any player (even an opponent).
 
 ### Pets 172 (S)
 
-The effect of this card applies to cities that are not on Mars
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”) as well as those on Mars.
+The effect of this card applies to cities that are not on Mars (“[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”) as well as
+those on Mars.
 
 Animals on this card CANNOT be removed, even by the owner of the card.
 
@@ -3728,9 +3748,9 @@ per area.
 
 - Tiles in space (i.e., not on Mars) are considered to have zero empty areas adjacent to them.
 
-- Areas with only a “[Land Claim](#land-claim-066-ce)” token or a community placed by
-  [Arcadian Communities](#arcadian-communities-pro) are still considered “empty” for the
-  purposes of this card, as they do not have tiles on them.
+- Areas with only a community placed by [Arcadian Communities](#arcadian-communities-pro), a
+  “[Land Claim](#land-claim-066-ce)” token or a “[Mars Nomads](#card-mars-nomads)” marker are still
+  considered “empty” for the purposes of this card, as they do not have tiles on them.
 
 ([Source 1](https://boardgamegeek.com/article/33634574#33634574),
 [Source 2](https://boardgamegeek.com/article/33502759#33502759))
@@ -3739,8 +3759,8 @@ per area.
 
 This card’s effect stacks with “[Advanced Alloys](#advanced-alloys-071-ce)”; if you have both cards,
 your steel resources are worth 4 M€ each. This card does NOT increase the amount you obtain from
-“[Space Elevator](#space-elevator-013-ce)” or “[Electro Catapult](#electro-catapult-069-ce)” when
-converting steel to M€; you would still obtain only 5 M€ and 7 M€ respectively when using these
+“[Electro Catapult](#electro-catapult-069-ce)” or “[Space Elevator](#space-elevator-013-ce)” when
+converting steel to M€; you would still obtain only 7 M€ and 5 M€ respectively when using these
 cards.
 
 ([Source](https://boardgamegeek.com/article/36643607#36643607))
@@ -3825,7 +3845,7 @@ A floater must still be spent to trade using that card, even with “Rim Freight
 
 - This card cannot be used on an opponent’s project card/Prelude card/corporation – only your own.
 
-- When copying “[Mining Rights](#mining-rights-067-s)” or “[Mining Area](#mining-area-064-ce)”
+- When copying “[Mining Area](#mining-area-064-ce)” or “[Mining Rights](#mining-rights-067-s)”
   (placed on a space with a steel or titanium placement bonus, granting the corresponding
   production) “Robotic Workforce” will copy the exact production that was obtained from the tile
   **when it was placed** (either titanium or steel).
@@ -3845,9 +3865,10 @@ You can use titanium towards the total cost for this action (6 M€); you may mi
 and M€ to pay the 6 M€ cost to place an asteroid on this card (you do not have to pay all in M€ or
 all in titanium).
 
-If you are playing [PhoboLog](#phobolog-s), have “[Advanced Alloys](#advanced-alloys-071-ce)” or
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” (or multiple of these) your titanium is worth more
-towards paying for a resource on this card, just like paying for space cards.
+If you have “[Advanced Alloys](#advanced-alloys-071-ce)”,
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” or [PhoboLog](#phobolog-s) (or multiple of these)
+your titanium is worth more towards paying for a resource on this card, just like paying for space
+cards.
 
 Similarly, if the [Unity](#unity) party is ruling, the Ruling Policy would increase the value of
 titanium spent on this action.
@@ -3856,17 +3877,17 @@ Discounts on space tags DO NOT change the cost of this action.
 
 ### Rover Construction 038 (S)
 
-The effect of this card applies to cities that are not on Mars
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”) as well as those on Mars.
+The effect of this card applies to cities that are not on Mars (“[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”) as well as
+those on Mars.
 
 ### Satellites 175 (CE)
 
-This card only increases M€ production for each space tag you have in play (e.g., only on green
-cards, blue cards, Prelude cards and Corporation cards you have already played). It does not count
-event cards or cards in your hand.
+This card only increases M€ production for each space tag you have in play (only on green cards,
+blue cards, Prelude cards and Corporation cards you have already played). It does not count event
+cards or cards in your hand.
 
 ### Saturn Surfing X11 (T/PRO)
 
@@ -3955,10 +3976,10 @@ Having the “[Advanced Alloys](#advanced-alloys-071-ce)” or
 “[Rego Plastics](#rego-plastics-x10-tpro)” cards would not alter the 5 M€ gained when spending steel
 on this card action.
 
-However, “Advanced Alloys”, “Rego Plastics”,
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)”, [PhoboLog](#phobolog-s) and the
-[Unity](#unity) party Ruling Policy would increase the value of steel and/or titanium used to pay
-for the card when first playing it (given that it has both building and space tags).
+However, “Advanced Alloys”, “[Mercurian Alloys](#mercurian-alloys-x07-tpro)”,
+[PhoboLog](#phobolog-s), “Rego Plastics” and the [Unity](#unity) party Ruling Policy would increase
+the value of steel and/or titanium used to pay for the card when first playing it (given that it has
+both building and space tags).
 
 ([Source](https://boardgamegeek.com/article/36644326#36644326))
 
@@ -3988,11 +4009,11 @@ well as Venus (even though the last is not noted on the symbology on the card) f
 play this generation. This means you can play a card requiring -4°C at -8°C, as each STEP for
 temperature is 2 degrees. The same is true for Venus, as each step is 2% Venus.
 
-The effect of this card stacks with the ability of [Inventrix](#inventrix-s),
-[Morning Star Inc.](#morning-star-inc-vn) and the
-“[Adaptation Technology](#adaptation-technology-153-s)” card, such that when used with one (or two)
-of these other effects you can play a card 4 (or 6) steps above or below the corresponding global
-parameter requirements on that card.
+The effect of this card stacks with the ability of
+“[Adaptation Technology](#adaptation-technology-153-s)”, [Inventrix](#inventrix-s) and
+[Morning Star Inc.](#morning-star-inc-vn), such that when used with one (or two) of these other
+effects you can play a card 4 (or 6) steps above or below the corresponding global parameter
+requirements on that card.
 
 It cannot be used to supersede other card requirements (tag requirements, TR requirements, etc.).
 
@@ -4051,10 +4072,12 @@ Regardless of where it is placed, this city CANNOT be counted toward the
 [Suburbian](#suburbian-uxa) Award from the Milestones and Awards expansion; that Award strictly
 refers to tiles ON MARS.
 
-This city cannot make any adjacencies, even with off-planet cities like
-“[Phobos Space Haven](#card-phobos-space-haven)” or “[Ganymede Colony](#ganymede-colony-081-s)”, and
-therefore it CANNOT trigger the [Philares](#philares-pro) ability. This city counts
-towards the [Landlord](#landlord-txa) Award, and also counts towards scoring
+This city cannot make any adjacencies, even with the other off-planet cities
+(“[Dawn City](#card-dawn-city)”, “[Ganymede Colony](#ganymede-colony-081-s)”,
+“[Luna Metropolis](#card-luna-metropolis)”, “[Maxwell Base](#maxwell-base-238-vn)”,
+“[Phobos Space Haven](#card-phobos-space-haven)” or “[Stratopolis](#card-stratopolis)”), and
+therefore it CANNOT trigger the [Philares](#philares-pro) ability. This city counts towards the
+[Landlord](#landlord-txa) Award, and also counts towards scoring
 “[Immigration Shuttles](#immigration-shuttles-198-s)”.
 
 ([Source 1](https://boardgamegeek.com/article/34083938#34083938),
@@ -4195,9 +4218,10 @@ You can use titanium towards the total cost for this action (12 M€); you may m
 and M€ to pay the 12 M€ to lay down an ocean tile (you do not have to pay all in M€ or all in
 titanium).
 
-If you are playing [PhoboLog](#phobolog-s), have “[Advanced Alloys](#advanced-alloys-071-ce)” or
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” (or multiple of these) your titanium is worth more
-towards paying for an ocean tile with this card, just like paying for space cards.
+If you have “[Advanced Alloys](#advanced-alloys-071-ce)”,
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” or [PhoboLog](#phobolog-s) (or multiple of these)
+your titanium is worth more towards paying for an ocean tile with this card, just like paying for
+space cards.
 
 Similarly, if the [Unity](#unity) party is ruling, the Ruling Policy would increase the value of
 titanium spent on this action.
@@ -4230,9 +4254,10 @@ Description: Most cards with no tags.
 
 Corporation and Prelude cards without tags are counted for this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) WILL count toward this Award as they are considered no tag when not being used in an action.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) WILL count toward this Award as they are considered no tag when
+not being used in an action.
 
 ([Source](https://boardgamegeek.com/article/32893227#32893227))
 
@@ -4244,9 +4269,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count toward this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4259,9 +4284,9 @@ cards, corporations, and Prelude cards all count towards this Milestone.
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ### Banker T/X:A
 
@@ -4282,9 +4307,9 @@ corporations, and Prelude cards all count towards this Award.
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4313,9 +4338,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4368,9 +4393,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4391,9 +4416,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4409,9 +4434,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4423,9 +4448,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4451,7 +4476,10 @@ tiles for board placement.
 
 Description (Errata): The Excentric Award should read “Most resources on cards **in play**”. Note
 that any type of resource counts towards this Award, and both resources on cards and resources on
-corporations ([Celestic](#celestic-vn), [Recyclon](#recyclon-pro)) are included.
+corporations ([Arklight](#card-arklight), [AstroDrill](#card-astrodrill), [Celestic](#celestic-vn),
+[Kuiper Cooperative](#card-kuiper-cooperative), [Pharmacy Union](#pharmacy-union-bpro),
+[Pristar](#pristar-t), [Recyclon](#recyclon-pro), [Spire](#card-spire) and
+[Stormcraft Inc.](#stormcraft-inc-c)) are included.
 
 Resources that are on an unplayed card placed on
 “[Self-Replicating Robots](#self-replicating-robots-210-pro)”, however, are NOT counted towards
@@ -4534,10 +4562,10 @@ by another Milestone.
 
 Description: Most tiles that are not adjacent to oceans.
 
-This would include tiles that are not on Mars including “[Stanford Torus](#stanford-torus-x12-tpro)”,
-“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Dawn City](#card-dawn-city)” and “[Maxwell Base](#maxwell-base-238-vn)”.
+This would include tiles that are not on Mars including “[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”.
 
 A tile next to an empty ocean area would still count toward this Award (assuming it is not touching
 any ocean tile).
@@ -4595,9 +4623,9 @@ cards all count towards this Award.
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4622,18 +4650,18 @@ This Award goes to the player with the most tiles in play. This includes:
 
 - Cities and greenery tiles on Mars.
 - Special (brown) tiles, associated with specific cards, placed on Mars.
-- Cities that are on designated spots not on Mars – “[Ganymede Colony](#ganymede-colony-081-s)”,
-  “[Phobos Space Haven](#card-phobos-space-haven)”, “[Luna Metropolis](#card-luna-metropolis)”,
-  “[Stratopolis](#card-stratopolis)”, “[Dawn City](#card-dawn-city)” and
-  “[Maxwell Base](#maxwell-base-238-vn)”.
+- Cities that are on designated spots not on Mars – “[Dawn City](#card-dawn-city)”,
+  “[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+  “[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)” and
+  “[Stratopolis](#card-stratopolis)”.
 - The “[Stanford Torus](#stanford-torus-x12-tpro)” city in space.
 
 Not counted towards this Award are:
 
 - Ocean tiles, which are not owned by anyone.
 - Player markers from [Arcadian Communities](#arcadian-communities-pro).
-- The cube placed by the “[Mars Nomads](#card-mars-nomads)” card.
 - The player marker from the “[Land Claim](#land-claim-066-ce)” card.
+- The cube placed by the “[Mars Nomads](#card-mars-nomads)” card.
 
 ### Landscaper V/X:A
 
@@ -4746,12 +4774,15 @@ Positive or negative M€ production would not factor into this Award.
 
 Description: 5 cards with non-negative VP.
 
-This Milestone includes cards with multiplier VP effects (e.g., “[Fish](#card-fish)” – 1 VP/animal,
-“[Ganymede Colony](#ganymede-colony-081-s)” – 1 VP/Jovian tag,
-“[Immigration Shuttles](#immigration-shuttles-198-s)” – 1 VP/3 cities in play, etc.) as these are
-all non-negative values.
+This Milestone includes cards with multiplier VP effects (examples, not an exhaustive list:
+“[Fish](#card-fish)” – 1 VP/animal, “[Ganymede Colony](#ganymede-colony-081-s)” – 1 VP/Jovian tag,
+“[Immigration Shuttles](#immigration-shuttles-198-s)” – 1 VP/3 cities in play,
+“[Physics Complex](#card-physics-complex)” – 2 VP/science resource, and
+“[Security Fleet](#card-security-fleet)” – 1 VP/fighter) as these are all non-negative values.
 
-It also counts certain corporation cards ([Vitor](#vitor-p), [Celestic](#celestic-vn), [Arklight](#card-arklight)).
+It also counts certain corporation cards ([Arklight](#card-arklight), [Celestic](#celestic-vn),
+[Pristar](#pristar-t) and [Vitor](#vitor-p)) and Prelude cards
+([Main Belt Asteroids](#card-main-belt-asteroids) and [Nobel Prize](#card-nobel-prize)).
 
 ### Physicist Am:A
 
@@ -4761,9 +4792,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4789,9 +4820,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4843,9 +4874,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count towards this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4857,9 +4888,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count toward this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4871,9 +4902,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4885,9 +4916,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4900,9 +4931,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count toward this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -4979,9 +5010,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) count toward this Milestone.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -5034,9 +5065,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) DO NOT count toward this Award.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
 
@@ -5064,9 +5095,9 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Award.
 
-Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
-etc.) do NOT count towards any Awards.
+Wild tags (from [Applied Science](#card-applied-science), [Nobel Prize](#card-nobel-prize),
+“[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) and
+[Septem Tribus](#septem-tribus-t)) do NOT count towards any Awards.
 
 If playing with the Venus Next expansion, this Award is added to the 5 existing Awards on the board
 you are playing with. Only 3 of the 6 Awards can still be funded.
@@ -5114,9 +5145,9 @@ playing that corporation.
 This Prelude would copy any direct effects of another Prelude including any production provided by
 the Prelude but would NOT copy the tags on that Prelude.
 
-If this is your third (or fourth) Prelude play (e.g. with the corporation card
-[Valley Trust](#valley-trust-p) and/or the [New Partner](#card-new-partner) prelude) you can
-choose any of the previously played Preludes to copy.
+If this is an additional Prelude play (with the [Board of Directors](#card-board-of-directors) or
+[New Partner](#card-new-partner) prelude or the corporation card [Valley Trust](#valley-trust-p))
+you can choose any of the previously played Preludes to copy.
 
 ### Ecology Experts
 
@@ -5144,11 +5175,11 @@ is not active); therefore, “[GMO Contract](#gmo-contract-t06-t)” and
 “[Wildlife Dome](#wildlife-dome-t15-t)”, both of which require the Greens to be ruling,
 CAN be played with Ecology Experts.
 
-If the Ecology Experts prelude is used to play “[Viral Enhancers](#viral-enhancers-074-ce)”,
-“GMO Contract”, “[Ecological Zone](#ecological-zone-128-s)” or
-“[Decomposers](#decomposers-131-s)” then the tags on the prelude WOULD trigger the respective card
-(to grant 2 plants, 4 M€, 1 animal or 2 microbes respectively), as playing the card is an effect
-that is part of the action of playing the Ecology Experts prelude.
+If the Ecology Experts prelude is used to play “[Decomposers](#decomposers-131-s)”,
+“[Ecological Zone](#ecological-zone-128-s)”, “GMO Contract” or
+“[Viral Enhancers](#viral-enhancers-074-ce)” then the tags on the prelude WOULD trigger the
+respective card (to grant 2 microbes, 1 animal, 4 M€ or 2 plants respectively), as playing the card
+is an effect that is part of the action of playing the Ecology Experts prelude.
 
 ([Source 1](https://boardgamegeek.com/article/29779398#29779398),
 [Source 2](https://boardgamegeek.com/article/33526434#33526434),
@@ -5196,8 +5227,9 @@ are ruling but their Ruling policy is only active during the Action phase.
 
 ### Head Start
 
-If your corporation has a mandatory first action (e.g. [Vitor](#vitor-p), [Aridor](#aridor-c),
-[Valley Trust](#valley-trust-p), [Tharsis Republic](#tharsis-republic-s), etc.), then this must be
+If your corporation has a mandatory first action (examples, not an exhaustive list:
+[Aridor](#aridor-c), [Celestic](#celestic-vn), [Inventrix](#inventrix-s),
+[Tharsis Republic](#tharsis-republic-s) and [Valley Trust](#valley-trust-p)), then this must be
 performed as the first of the two early actions provided by this Prelude.
 
 The actions granted by this Prelude include any action allowable during normal gameplay such as
@@ -5237,10 +5269,10 @@ Specific Merger situations are listed below:
 
 - If playing both [TerraLabs](#terralabs-t) and [Polyphemos](#polyphemos-c), the effects on the
   corporations cancel one another and the cost to buy cards remains at 3 M€.
-- If playing [Viron](#viron-vn) with another corporation with an associated corporation action (e.g.
-  [Stormcraft](#stormcraft-inc-c), [Septem Tribus](#septem-tribus-t),
-  [AstroDrill](#card-astrodrill), etc.), Viron CAN be used to repeat the corporation
-  action again.
+- If playing [Viron](#viron-vn) with another corporation with an associated corporation action
+  (examples, not an exhaustive list: [AstroDrill](#card-astrodrill), [Celestic](#celestic-vn),
+  [Robinson Industries](#robinson-industries-p), [Stormcraft Inc.](#stormcraft-inc-c) and
+  [UNMI](#unmi-s)), Viron CAN be used to repeat the corporation action again.
 - If playing both [Helion](#helion-s) and [Mons Insurance](#mons-insurance-pro) together, heat can
   be used to pay for Mons Insurance payouts, but the recipient would get the
   equivalent amount in M€. The recipient cannot, however, force you to use heat even if you do not
@@ -5280,9 +5312,10 @@ for Titan).
 
 Tags on cards DO NOT put these Colony tiles into play – only cards that COLLECT those resources do.
 
-This would include corporation cards that can hold resources such as [Arklight](#card-arklight)
-(animals), [Celestic](#celestic-vn) (floaters), [Recyclon](#recyclon-pro) (microbes), etc. which
-would put the appropriate colony into play immediately.
+The corporation cards that can hold these resources are [Arklight](#card-arklight) (animals),
+[Celestic](#celestic-vn) (floaters), [Recyclon](#recyclon-pro) (microbes) and
+[Stormcraft Inc.](#stormcraft-inc-c) (floaters), which would put the appropriate colony into play
+immediately.
 
 The white markers on these colony tiles are NOT advanced every generation until they are put into
 play (as noted above).
@@ -5418,11 +5451,10 @@ If you have 0 influence + cities + building tags, you can still win 2nd (or 1st)
 event if there is only 1 player (or no players) with a greater total of influence + cities +
 building tags.
 
-Cities that are not on Mars still count towards this event
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”).
+Cities that are not on Mars still count towards this event (“[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”).
 
 ([Source](https://boardgamegeek.com/article/37773806#37773806))
 
@@ -5501,11 +5533,10 @@ losing or gaining anything does not technically change the game state).
 
 This event is resolved for cities that YOU own.
 
-Cities that are not on Mars still count towards this event
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”).
+Cities that are not on Mars still count towards this event (“[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”).
 
 ### Sabotage (Corporate Alliance)
 
@@ -5538,7 +5569,10 @@ blue cards you own for this event.
 ### Sponsored Projects (Science Summit)
 
 This Global Event card adds resources to ALL cards, including corporations that collect resources
-(e.g., [Celestic](#celestic-vn), [Pristar](#pristar-t), [Arklight](#card-arklight)) and to the
+([Arklight](#card-arklight), [AstroDrill](#card-astrodrill), [Celestic](#celestic-vn),
+[Kuiper Cooperative](#card-kuiper-cooperative), [Pharmacy Union](#pharmacy-union-bpro),
+[Pristar](#pristar-t), [Recyclon](#recyclon-pro), [Spire](#card-spire) and
+[Stormcraft Inc.](#stormcraft-inc-c)) and to the
 “[Self-Replicating Robots](#self-replicating-robots-210-pro)” PROMO card.
 
 ([Source 1](https://boardgamegeek.com/article/33633309#33633309),
@@ -5548,11 +5582,10 @@ This Global Event card adds resources to ALL cards, including corporations that 
 
 This event is resolved for cities that YOU own.
 
-Cities that are not on Mars still count towards this event
-(“[Ganymede Colony](#ganymede-colony-081-s)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
-“[Luna Metropolis](#card-luna-metropolis)”, “[Stratopolis](#card-stratopolis)”,
-“[Maxwell Base](#maxwell-base-238-vn)”, “[Dawn City](#card-dawn-city)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”).
+Cities that are not on Mars still count towards this event (“[Dawn City](#card-dawn-city)”,
+“[Ganymede Colony](#ganymede-colony-081-s)”, “[Luna Metropolis](#card-luna-metropolis)”,
+“[Maxwell Base](#maxwell-base-238-vn)”, “[Phobos Space Haven](#card-phobos-space-haven)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)” and “[Stratopolis](#card-stratopolis)”).
 
 ### Volcanic Eruptions (Patera Boring)
 
@@ -5662,8 +5695,8 @@ To gain the Ruling Bonus, you do not have to have all 3 types of tags (Venus, Ea
 tags). You would simply get 1 M€ for each tag of any of those types that you have.
 
 The Ruling Policy of this party stacks with the effects of
-“[Advanced Alloys](#advanced-alloys-071-ce)”, “[Mercurian Alloys](#mercurian-alloys-x07-tpro)” and
-[PhoboLog](#phobolog-s).
+“[Advanced Alloys](#advanced-alloys-071-ce)”, [Boom Town](#card-boom-town),
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)” and [PhoboLog](#phobolog-s).
 
 Wild tags cannot be used to obtain the Ruling Bonus as these tags are not considered any tag unless
 used during an action (and Ruling Bonuses are resolved during the Solar Phase NOT the Action Phase).
@@ -5850,6 +5883,10 @@ step. Add 3 floaters to ANY VENUS CARD._
 [Ants](#ants-035-s) (9 MC, Blue Card, 4% Oxygen Requirement), _Top - Action: Remove 1 microbe from
 any card to add 1 to this card; Bottom - Requires 4% oxygen. 1 VP per 2 microbes on this card._
 
+<a name="card-applied-science"></a>Applied Science (Prelude), _Top - Action: Remove 1 science
+resource here to either add 1 resource to ANY CARD WITH A RESOURCE or gain 1 standard resource;
+Bottom - Add 6 science resources here._
+
 [Aquifer Pumping](#aquifer-pumping-187-s) (18 MC, Blue Card), _Action: Spend 8 MC to place 1 ocean
 tile. STEEL MAY BE USED as if you were playing a building card._
 
@@ -5861,15 +5898,17 @@ to play. Gain 1 plant._
 plant tag, including this, add 1 animal to this card; Bottom - You start with 45 MC. Increase your
 MC production 2 steps. 1 VP per 2 animals on this card._
 
+<a name="card-asteroid-hollowing"></a>Asteroid Hollowing (16 MC, Blue Card), _Top - Action: Spend 1
+titanium to add 1 asteroid resource here and increase MC production 1 step; Bottom - 1 VP per 2
+asteroids on this card._
+
 [Asteroid Mining Consortium](#asteroid-mining-consortium-002-ce) (13 MC, Green Card, Titanium
 Production Requirement), _Requires that you have titanium production. Decrease any titanium
 production 1 step and increase your own 1 step._
 
-[Meat Industry](#meat-industry-x30-bpro) (5 MC, Blue Card), _Effect: When you gain an animal to ANY
-CARD, gain 2 MC._
-
-[Topsoil Contract](#topsoil-contract-x25-bpro) (8 MC, Blue Card), _Top - Effect: When you gain a
-microbe to ANY CARD, also gain 1 MC; Bottom - Gain 3 plants._
+<a name="card-asteroid-rights"></a>Asteroid Rights (10 MC, Blue Card), _Top - Action: Spend 1 MC to
+add 1 asteroid to ANY card, OR spend 1 asteroid here to raise your MC production 1 step or gain 2
+titanium; Bottom - Gain 2 asteroids to this card._
 
 <a name="card-astrodrill"></a>AstroDrill (Corporation), _Top - Action: Either add 1 asteroid to
 ANY CARD or gain any standard resource, OR spend 1 asteroid here to gain 3 titanium; Bottom - You
@@ -5881,6 +5920,13 @@ Add 2 floaters to ANY card._
 
 <a name="card-beginner-corporation"></a>Beginner Corporation (Corporation), _You start with 42 MC.
 INSTEAD OF CHOOSING FROM 10 CARDS DURING SETUP, YOU GET 10 CARDS FOR FREE._
+
+<a name="card-board-of-directors"></a>Board of Directors (Prelude), _Top - ACTION: DRAW 1 PRELUDE
+CARD: EITHER DISCARD IT, OR PAY 12 MC AND REMOVE 1 DIRECTOR RESOURCE HERE TO PLAY IT; Bottom - Add 4
+director resources here._
+
+<a name="card-boom-town"></a>Boom Town (Prelude), _Top - Effect: Your titanium is worth 1 MC less;
+Bottom - Place a city tile ON A STEEL OR TITANIUM BONUS. Increase titanium production 2 steps._
 
 <a name="card-business-empire"></a>Business Empire (Prelude), _Increase your MC production 6
 steps. Remove 6 MC._
@@ -5902,6 +5948,9 @@ WITH AT LEAST 1 RESOURCE ON IT_
 <a name="card-cheung-shing-mars"></a>Cheung Shing Mars (Corporation), _Top - Effect: When you play
 a building tag, you pay 2 MC less for it; Bottom - You start with 44 MC and 3 MC production._
 
+<a name="card-comet-aiming"></a>Comet Aiming (17 MC, Blue Card), _Action: Spend 1 titanium to add 1
+asteroid resource to ANY CARD or remove 1 asteroid here to place an ocean tile._
+
 [Community Services](#community-services-c04-c) (13 MC, Green Card), _Increase your MC production 1
 step per CARD WITH NO TAGS, including this._
 
@@ -5915,11 +5964,11 @@ tile ON THE RESERVED AREA._
 [Deimos Down](#deimos-down-x32-bpro) (31 MC, Event) – Standard Version, _Raise temperature 3 steps
 and gain 4 steel. Remove up to 8 plants from any player._
 
+<a name="card-directed-heat-usage"></a>Directed Heat Usage (1 MC, Blue Card), _Action: Spend 3 heat
+to either gain 4 MC or 2 plants._
+
 [Dirigibles](#dirigibles-222-vn) (11 MC, Blue Card), _Action: Add 1 floater to ANY card. Effect:
 When playing a Venus tag, floaters here may be used as payment, and are worth 3 MC each._
-
-<a name="card-solar-probe"></a>Solar Probe (9 MC, Event), _Draw 1 card for every 3 science tags you
-have, including this._
 
 <a name="card-donation"></a>Donation (Prelude), _Gain 21 MC._
 
@@ -5972,6 +6021,10 @@ animal to this card. Decrease any plant production 1 step. 1 VP per 2 animals on
 [Hired Raiders](#hired-raiders-124-ce) (1 MC, Event), _Steal up to 2 steel, or 3 MC from any
 player._
 
+<a name="card-hospitals"></a>Hospitals (8 MC, Blue Card, 1 VP), _Top - Effect: Each time a city is
+placed, gain a disease here. Action: Remove a disease from ANY OF YOUR CARDS to gain 1 MC per city
+in play; Bottom - Decrease your energy production 1 step._
+
 <a name="card-huge-asteroid"></a>Huge Asteroid (Prelude), _Raise temperature 3 steps. Remove 5
 MC._
 
@@ -5990,6 +6043,15 @@ EITHER BUY IT OR DISCARD IT_
 
 [Ironworks](#ironworks-101-s) (11 MC, Blue Card), _Action: Spend 4 energy to gain 1 steel and
 increase oxygen 1 step._
+
+<a name="card-kaguya-tech"></a>Kaguya Tech (10 MC, Green Card), _Increase your MC production 2
+steps. Draw 1 card. Remove 1 of your greenery tiles (does not affect oxygen). Place a city tile
+there, regardless of other restrictions. Gain placement bonuses as usual._
+
+<a name="card-kuiper-cooperative"></a>Kuiper Cooperative (Corporation), _Top - Action: Add 1
+asteroid here for every space tag you have. Effect: When paying for the ASTEROID or AQUIFER standard
+projects, each asteroid here may be used as 1 MC; Bottom - You start with 33 MC. Increase your
+titanium production 1 step._
 
 [Land Claim](#land-claim-066-ce) (1 MC, Event), _PLACE YOUR MARKER ON A NON-RESERVED AREA. ONLY YOU
 MAY PLACE A TILE HERE_
@@ -6017,6 +6079,10 @@ AREA._
 <a name="card-lunar-exports"></a>Lunar Exports (19 MC, Green Card), _Increase your plant
 production 2 steps, or increase your MC production 5 steps._
 
+<a name="card-main-belt-asteroids"></a>Main Belt Asteroids (Prelude), _Top - Action: Gain 1 asteroid
+to ANY CARD. Effect: When gaining an asteroid HERE, gain 1 titanium; Bottom - Lose 5 MC. 1 VP per 2
+asteroids here._
+
 <a name="card-mars-nomads"></a>Mars Nomads (13 MC, Blue Card), _Top - Action: Move the Nomads to
 an adjacent, non-reserved, empty area, and GAIN PLACEMENT BONUSES as if placing a special tile
 there. No tiles may be placed on the Nomad area; Bottom - PLACE THE NOMADS (a gold cube) on a
@@ -6028,6 +6094,9 @@ including this, you may discard a card from hand to draw a card._
 [Maxwell Base](#maxwell-base-238-vn) (18 MC, Blue Card. 12% Venus Requirement), _Top - Action: Add 1
 resource to ANOTHER VENUS CARD; Bottom - Requires Venus 12%. Decrease your energy production 1 step.
 Place a city tile ON THE RESERVED AREA._
+
+[Meat Industry](#meat-industry-x30-bpro) (5 MC, Blue Card), _Effect: When you gain an animal to ANY
+CARD, gain 2 MC._
 
 <a name="card-media-archives"></a>Media Archives (8 MC, Green Card), _Gain 1 MC for each event EVER
 PLAYED by all players._
@@ -6048,6 +6117,9 @@ resource 1 step._
 [Mining Rights](#mining-rights-067-s) (9 MC, Green Card), _Place this tile on an area with a steel
 or titanium placement bonus. Increase that production 1 step._
 
+<a name="card-mohole-area"></a>Mohole Area (20 MC, Green Card), _Increase your heat production 4
+steps. Place this tile ON AN AREA RESERVED FOR OCEAN._
+
 <a name="card-neptunian-power-consultants"></a>Neptunian Power Consultants (14 MC, Blue Card),
 _Top - Effect: When any ocean is placed, you MAY spend 5 MC (steel may be used) to raise your
 energy production 1 step and add 1 hydroelectric resource here; Bottom - 1 VP per hydroelectric
@@ -6066,6 +6138,9 @@ microbes to this card._
 
 <a name="card-nitrophilic-moss"></a>Nitrophilic Moss (8 MC, Green Card, 3 Ocean Requirement),
 _Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps._
+
+<a name="card-nobel-prize"></a>Nobel Prize (Prelude, 2 VP), _Gain 5 MC. Draw 2 cards with
+requirements._
 
 [Olympus Conference](#olympus-conference-185-ce) (10 MC, Blue Card), _Effect: When you play a
 science tag, including this, either add a science resource to this card, or remove a science
@@ -6134,9 +6209,17 @@ to add 1 fighter resource to this card; Bottom - 1 VP for each fighter resource 
 <a name="card-small-asteroid"></a>Small Asteroid (10 MC, Event), _Increase temperature 1 step.
 Remove up to 2 plants from any player._
 
+<a name="card-solar-probe"></a>Solar Probe (9 MC, Event), _Draw 1 card for every 3 science tags you
+have, including this._
+
 [Space Port](#space-port-c39-c) (22 MC, Green Card, 1 Colony Requirement), _Requires 1 colony. Gain
 1 Trade Fleet. Place a city tile. Decrease your energy production 1 step, and increase your MC
 production 4 steps._
+
+<a name="card-spire"></a>Spire (Corporation), _Top - Effect: When you play a card with AT LEAST 2
+tags, including this, add 1 science resource here. When you pay for a standard project, science
+resources here may be used as 2 MC each; Bottom - You start with 50 MC. As your first action, draw 4
+cards, then discard 3 cards from hand._
 
 [Sponsored Academies](#sponsored-academies-247-vn) (9 MC, Green Card), _Discard 1 card from hand and
 THEN draw 3 cards. All OPPONENTS draw 1 card._
@@ -6164,9 +6247,15 @@ step for each Jovian tag you have, including this._
 [Toll Station](#toll-station-099-ce) (12 MC, Green Card), _Increase your MC production 1 step for
 each space tag your OPPONENTS have._
 
+[Topsoil Contract](#topsoil-contract-x25-bpro) (8 MC, Blue Card), _Top - Effect: When you gain a
+microbe to ANY CARD, also gain 1 MC; Bottom - Gain 3 plants._
+
 <a name="card-urbanized-area"></a>Urbanized Area (10 MC, Green Card), _Decrease your energy
 production 1 step and increase your MC production 2 steps. Place a city tile ADJACENT TO AT LEAST
 2 OTHER CITY TILES._
+
+<a name="card-venus-orbital-survey"></a>Venus Orbital Survey (18 MC, Blue Card), _Action: REVEAL THE
+TOP 2 CARDS, TAKE ANY VENUS CARDS TO HAND FOR FREE. ANY OTHER CARD YOU EITHER BUY OR DISCARD_
 
 <a name="card-venus-waystation"></a>Venus Waystation (9 MC, Blue Card), _Effect: When you play a
 Venus tag, you pay 2 MC less for it._
@@ -6174,6 +6263,10 @@ Venus tag, you pay 2 MC less for it._
 <a name="card-venusian-insects"></a>Venusian Insects (5 MC, Blue Card, 12% Venus Requirement),
 _Top - Action: Add 1 microbe to this card; Bottom - Requires Venus 12%. 1 VP per 2 microbes on this
 card._
+
+<a name="card-vermin"></a>Vermin (8 MC, Blue Card), _Each player, including you, gets -1 VP per city
+they have IF THERE ARE AT LEAST 10 ANIMALS HERE. Effect: When any city is placed, add 1 animal here.
+Action: Add 1 animal here or 1 microbe to ANOTHER card._
 
 [Viral Enhancers](#viral-enhancers-074-ce) (9 MC, Blue Card), _Effect: When you play a plant,
 microbe, or an animal tag, including this, gain 1 plant or add 1 resource TO THAT CARD._
