@@ -465,7 +465,7 @@ cards). Some cards do not have tags, but most in the game do.
 - The yellow downward arrow on any event IS considered a tag in game (the Event tag), but like all
   tags on event cards these never enter play.
   - A card with only the Event tag would trigger the
-    [Sagitta Frontier Services](#sagitta-frontier-services-pro) corporation’s effect granting 1 M€
+    [Sagitta Frontier Services](#sagitta-frontier-services-pro) effect granting 1 M€
     when played.
 - When a card requires certain tags to play it, the tags on that card DO NOT count towards the
   requirement (e.g., “[Warp Drive](#card-warp-drive)” has a science tag, but requires 5 science tags
@@ -478,7 +478,7 @@ cards). Some cards do not have tags, but most in the game do.
   - If an effect is triggered or a discount is applied for a specific tag, that is counted once for
     EACH tag on a card. Therefore, a card that has two of the same tag would trigger the effect
     twice or would be discounted twice. For example, “[Research](#research-090-ce)” (2 Science
-    tags) would be discounted by 4 M€ by the [Valley Trust](#valley-trust-p) Corporation (Effect:
+    tags) would be discounted by 4 M€ by [Valley Trust](#valley-trust-p) (Effect:
     When you play a science tag, you pay 2 M€ less for it), and
     “[Luna Governor](#luna-governor-c20-c)” (2 Earth tags) would trigger
     “[Martian Zoo](#martian-zoo-c24-c)” twice (Effect: When you play an Earth tag, place an animal
@@ -503,8 +503,8 @@ cards, blue cards, corporations, and Prelude cards are active and can be used to
 for certain cards, milestones, and awards.
 
 Note that many project cards/corporation cards will trigger their own effects with their tags. In
-these cases, the card will usually specify “including this” (e.g., for the
-[Point Luna](#point-luna-p) corporation, the Earth tag on the corporation triggers its Effect,
+these cases, the card will usually specify “including this” (e.g., for
+[Point Luna](#point-luna-p), the Earth tag on the corporation triggers its Effect,
 allowing you to draw a card immediately).
 
 Wild tags cannot trigger effects when being played; they only function as a tag after they have been
@@ -674,10 +674,11 @@ themselves (“[Symbiotic Fungus](#symbiotic-fungus-133-s)”,
 
 Some common resource types that are associated with many cards include:
 
-- Floaters (“[Extractor Balloons](#card-extractor-balloons)”, “[Dirigibles](#dirigibles-222-vn)”, [Celestic](#celestic-vn) Corporation, etc.)
+- Floaters (“[Extractor Balloons](#card-extractor-balloons)”, “[Dirigibles](#dirigibles-222-vn)”,
+  [Celestic](#celestic-vn), etc.)
 
 - Animals (“[Fish](#card-fish)”, “[Stratospheric Birds](#stratospheric-birds-249-vn)”, “[Ecological Zone](#ecological-zone-128-s)”, [Arklight](#card-arklight)
-  Corporation etc.)
+  etc.)
 - Microbes (“[Ants](#ants-035-s)”, “[Nitrite Reducing Bacteria](#card-nitrite-reducing-bacteria)”,
   “[Venusian Insects](#card-venusian-insects)”, etc.) Some resources that have specific cards
   associated with them include:
@@ -687,7 +688,7 @@ Some common resource types that are associated with many cards include:
 
 - Camp resources (“[Refugee Camps](#card-refugee-camps)”)
 
-- Disease resources ([Pharmacy Union](#pharmacy-union-bpro) corporation) Typically, resources
+- Disease resources ([Pharmacy Union](#pharmacy-union-bpro)) Typically, resources
   whether on your player board or on a project/corporation card, are tracked
 using the standard resource cubes (bronze = 1, silver = 5, gold = 10).
 
@@ -730,8 +731,8 @@ only be used to pay for cards with the building tag, and titanium can only be us
 both steel and titanium if it has both building AND
 space tags (e.g., “[Space Elevator](#space-elevator-013-ce)”). When paying for a card, you can
 mix and match M€ and steel/titanium. Each titanium is worth 3 M€ towards the cost of a space card,
-and each steel is worth 2 M€ towards the cost of a building card (unless you are playing the
-[PhoboLog](#phobolog-s) Corporation, have played the “[Advanced Alloys](#advanced-alloys-071-ce)”,
+and each steel is worth 2 M€ towards the cost of a building card (unless you are playing
+[PhoboLog](#phobolog-s), have played the “[Advanced Alloys](#advanced-alloys-071-ce)”,
   “[Mercurian Alloys](#mercurian-alloys-x07-tpro)” or “[Rego Plastics](#rego-plastics-x10-tpro)” cards \- in which case your titanium and steel
 may be worth more).
 
@@ -748,7 +749,9 @@ printed action are two separate actions. When you play a blue card, the action i
 triggered – you must use the action at some point afterwards.
 
 This also applies to corporations that have an action that you can perform
-([Arcadian Communities](#arcadian-communities-pro), [Celestic](#celestic-vn), [Robinson Industries](#robinson-industries-p), [UNMI](#unmi-s), [Viron](#viron-vn)). When playing the Viron corporation, you can use another action
+([Arcadian Communities](#arcadian-communities-pro), [Celestic](#celestic-vn),
+[Robinson Industries](#robinson-industries-p), [UNMI](#unmi-s), [Viron](#viron-vn)). When playing
+Viron, you can use another action
 card a second time – once again choosing _either_ action (if there is more than one on the card). If
 a card with two actions is used twice this way, you can choose to perform a different action the
 second time (e.g., use an action to add a cube to a card, then use Viron to remove the
@@ -996,8 +999,8 @@ perform the action even if the effect is not met:
 - When a passive effect from a blue card or corporation would be triggered by something occurring
   during play (e.g., playing a Science card with “[Olympus Conference](#olympus-conference-185-ce)”,
   getting 2 plants from another player placing an ocean tile with
-  “[Arctic Algae](#arctic-algae-023-s)”, or receiving 2 M€ when someone raises Venus with the
-  [Aphrodite](#aphrodite-vn) corporation) this is optional and the active player may choose not to
+  “[Arctic Algae](#arctic-algae-023-s)”, or receiving 2 M€ when someone raises Venus with
+  [Aphrodite](#aphrodite-vn)) this is optional and the active player may choose not to
   trigger it. However, triggers can be invoked by ANYONE, so another player may point out a trigger
   thus causing it to be triggered. In this way, triggers are technically optional, in that if no one
   triggers them (deliberately or inadvertently) they may go without being triggered.
@@ -1023,22 +1026,23 @@ abilities will stack. Some examples include:
   “[Earth Office](#earth-office-105-ce)” would stack to give a player a 6 M€ discount on Earth tags)
 
 - Blue card passive effects (e.g., the Effect of “[Advanced Alloys](#advanced-alloys-071-ce)”
-  combined with the Effect of the [PhoboLog](#phobolog-s) corporation, making titanium worth 5 M€
+  combined with the Effect of [PhoboLog](#phobolog-s), making titanium worth 5 M€
   per resource for that player. Another example is playing
-  “[Adaptation Technology](#adaptation-technology-153-s)” as the [Inventrix](#inventrix-s)
-  Corporation – in this case your global requirements would be +/- 4 steps for cards you play).
+  “[Adaptation Technology](#adaptation-technology-153-s)” as [Inventrix](#inventrix-s)
+  – in this case your global requirements would be +/- 4 steps for cards you play).
 
-- Blue card triggered effects (e.g., the Effect of “[Media Group](#media-group-109-ce)” and the
-  [Interplanetary Cinematics](#interplanetary-cinematics-s) corporation, to gain a total of 5 M€ when playing an event)
+- Blue card triggered effects (e.g., the Effect of “[Media Group](#media-group-109-ce)” and
+  [Interplanetary Cinematics](#interplanetary-cinematics-s), to gain a total of 5 M€ when playing an
+  event)
 
-- Event dependent triggers (e.g., when someone plays the [Mining Guild](#mining-guild-s) Corporation
+- Event dependent triggers (e.g., when someone plays [Mining Guild](#mining-guild-s)
   and plays either “[Mining Rights](#mining-rights-067-s)” or “[Mining Area](#mining-area-064-ce)”,
   they would receive 2 production – 1 titanium or steel production for the card effect, based on
   where the tile was placed, and 1 steel production for the Mining Guild Effect)
 
 - Combinations of abilities (e.g., the Effect of “[Rover Construction](#rover-construction-038-s)”
-  along with “[Standard Technology](#standard-technology-156-ce)” and the [CrediCor](#credicor-s)
-  corporation to get 9 M€ [2 M€ + 3 M€ + 4 M€] back after placing a standard project city for 25
+  along with “[Standard Technology](#standard-technology-156-ce)” and [CrediCor](#credicor-s)
+  to get 9 M€ [2 M€ + 3 M€ + 4 M€] back after placing a standard project city for 25
   M€).
 
 ([Source](https://boardgamegeek.com/article/23807705#23807705))
@@ -1068,8 +1072,8 @@ card draws, tile placements, increase in global parameters)
 B. Card-dependent triggers from other played cards or corporations
 
 - Rebates on cards, such as 3 M€ back for events with “[Media Group](#media-group-109-ce)”, 3 M€
-  back for VP cards with the corporation [Vitor](#vitor-p), or 4 M€ back for 20 M€+ cards with the
-  [CrediCor](#credicor-s) corporation.
+  back for VP cards with [Vitor](#vitor-p), or 4 M€ back for 20 M€+ cards with
+  [CrediCor](#credicor-s).
 - Adding resources to a card, such as adding an animal to
   “[Ecological Zone](#ecological-zone-128-s)” when a plant or animal tag is played.
 - Card draw, such as that triggered by “[Olympus Conference](#olympus-conference-185-ce)” when
@@ -1080,12 +1084,11 @@ C. Event-dependent triggers from other played cards or corporations
 - Resources obtained from certain board events, such as receiving 2 plants when an ocean tile is
   placed from “[Arctic Algae](#arctic-algae-023-s)”, receiving 2 M€ when a city is placed from
   “[Rover Construction](#rover-construction-038-s)”, or receiving 2 M€ when Venus is terraformed 1
-  step with the corporation [Aphrodite](#aphrodite-vn).
+  step with [Aphrodite](#aphrodite-vn).
 - Production obtained from board events, such as 1 M€ production increase for the owner of
-  “[Immigrant City](#immigrant-city-200-s)” when a city tile is placed, or the same for the
-  corporation [Tharsis Republic](#tharsis-republic-s).
-- Gaining resources from an increase in production, specifically for the [Manutech](#manutech-vn)
-  corporation.
+  “[Immigrant City](#immigrant-city-200-s)” when a city tile is placed, or the same for
+  [Tharsis Republic](#tharsis-republic-s).
+- Gaining resources from an increase in production, specifically for [Manutech](#manutech-vn).
 
 D. Placement bonuses
 
@@ -1145,11 +1148,11 @@ Yes. Each tag is considered separately, and as such each tag will trigger any ef
 play. Note that each tag can also trigger multiple Blue Card/Corporation effects. Some examples
 include:
 
-- Discounts (e.g., the Science tag discount of 2 M€ from the [Valley Trust](#valley-trust-p)
-  corporation would apply twice to the “[Research](#research-090-ce)” card, which has two Science
+- Discounts (e.g., the Science tag discount of 2 M€ from [Valley Trust](#valley-trust-p)
+  would apply twice to the “[Research](#research-090-ce)” card, which has two Science
   tags, reducing its cost by a total of 4 M€)
 - Triggers from repeated tags (e.g., the “[Luna Governor](#luna-governor-c20-c)” card, which has 2
-  Earth tags, would trigger the [Point Luna](#point-luna-p) corporation ability twice, resulting in
+  Earth tags, would trigger the [Point Luna](#point-luna-p) ability twice, resulting in
   two cards being drawn)
 - Triggers from different tags on the same card (e.g., each of the Animal, Plant and Microbe tags on
   “[Advanced Ecosystems](#card-advanced-ecosystems)” will separately trigger
@@ -1190,7 +1193,7 @@ city, or reserved for another player. The following would be reserved areas:
 
 - A space reserved using the “[Land Claim](#land-claim-066-ce)” card.
 
-- A space reserved with a cube by the [Arcadian Communities](#arcadian-communities-pro) corporation.
+- A space reserved with a cube by [Arcadian Communities](#arcadian-communities-pro).
 
 - A space containing the Nomads cube from the “[Mars Nomads](#card-mars-nomads)” card.
 
@@ -1248,8 +1251,8 @@ placing a tile on the corresponding space. These can include:
 - Delegates (printed on the space)
 - Global parameters (requiring you to spend M€)
 - A colony (requiring you to spend M€)
-- 2 M€ for each ocean tile adjacent to a tile you place on the board (or 3 M€ for the
-  [Lakefront Resorts](#lakefront-resorts-t) corporation)
+- 2 M€ for each ocean tile adjacent to a tile you place on the board (or 3 M€ for
+  [Lakefront Resorts](#lakefront-resorts-t))
 
 Board spaces that grant a wild resource (denoted by a white resource with a “?” symbol on the
 [Amazonis Planitia](#amazonis-planitia) map) would provide a single standard resource when a tile is
@@ -1317,7 +1320,7 @@ There are several general rules to follow when placing tiles on the board:
   player.
   - The only exception to this rule is during the World Government Phase, when the 2 M€ bonus per
     water tile would not go to any player, but rather to the World Government.
-  - The [Lakefront Resorts](#lakefront-resorts-t) corporation gets a 3 M€ bonus per adjacent water
+  - [Lakefront Resorts](#lakefront-resorts-t) gets a 3 M€ bonus per adjacent water
     tile instead of 2 M€.
 
 - Certain cards have special rules for tiles placement; these cards either place greeneries, cities,
@@ -1339,7 +1342,8 @@ There are several general rules to follow when placing tiles on the board:
 
 - Greenery tiles (unless a card specifies otherwise) MUST be placed next to a **tile** that the
   active player owns (whether that is a city or another tile). For this purpose, the cubes placed
-  by “[Land Claim](#land-claim-066-ce)”, by the [Arcadian Communities](#arcadian-communities-pro) corporation or by the “[Mars Nomads](#card-mars-nomads)” card DO NOT count as tiles. If a greenery
+  by “[Land Claim](#land-claim-066-ce)”, by [Arcadian Communities](#arcadian-communities-pro) or by
+  the “[Mars Nomads](#card-mars-nomads)” card DO NOT count as tiles. If a greenery
   is the first tile that a player is placing on Mars (i.e., the player does not yet own any tiles on
   Mars) OR spaces adjacent to his/her tiles are ALL occupied, then the player can choose ANY
   non-reserved spot to place the greenery.
@@ -1370,7 +1374,7 @@ There are several general rules to follow when placing tiles on the board:
 ### What tiles count as a city?
 
 City tiles are placed by the city standard project, Prelude cards, the
-[Tharsis Republic](#tharsis-republic-s) corporation starting action, and certain project cards. They
+[Tharsis Republic](#tharsis-republic-s) starting action, and certain project cards. They
 are all represented by the same, grey-bordered city tiles, except for “[Capital](#capital-008-s)”
 which places a white coloured city tile.
 
@@ -1396,8 +1400,8 @@ repeats this process.
 
 As a reminder, all greeneries placed after oxygen is maxed DO NOT generate a Terraform Rating.
 During this phase, any relevant Blue Card or Corporation effects can be triggered by greenery
-placement (e.g., “[Herbivores](#card-herbivores)”, the [Philares](#philares-pro) Corporation, the
-[Mining Guild](#mining-guild-s) corporation, etc.).
+placement (e.g., “[Herbivores](#card-herbivores)”, [Philares](#philares-pro),
+[Mining Guild](#mining-guild-s), etc.).
 
 Placing greeneries is always optional, and any player may refrain from converting plants to greenery
 tiles if he or she chooses.
@@ -1589,8 +1593,8 @@ instead.
   second prelude may potentially grant you additional funds, such as P17 – [Loan](#card-loan) or P08 –
   [Donation](#card-donation)). In most cases this would not be an ideal play, as in general a
   prelude is of greater value than 15 M€.
-- This effect would similarly apply if none of the Preludes drawn by the
-  [Valley Trust](#valley-trust-p) corporation (as part of its first action) are playable. All 3
+- This effect would similarly apply if none of the Preludes drawn by
+  [Valley Trust](#valley-trust-p) (as part of its first action) are playable. All 3
   should be revealed to all players to confirm they are unplayable and then should be discarded to
   obtain 15 M€ (total).
 
@@ -1690,7 +1694,7 @@ the floaters from the Trade Income would all go on one card (for example, 4 floa
 “[Extractor Balloons](#card-extractor-balloons)”), the Colony Bonus from the first colony could go
 on a separate card (e.g., 1 floater onto “[Dirigibles](#dirigibles-222-vn)”), and the Colony Bonus
 from the second colony could go on a third card (e.g., 1 floater onto the
-[Stormcraft](#stormcraft-inc-c) corporation card). Each step of the trade action would be resolved
+[Stormcraft](#stormcraft-inc-c) card). Each step of the trade action would be resolved
 separately, and each colony bonus is a separate and distinct trigger from the trade income itself.
 
 ([Source](https://boardgamegeek.com/thread/2088736/split-floaters-floaters-cards))
@@ -2230,7 +2234,7 @@ one player and adding them to another player (“[Hired Raiders](#hired-raiders-
 be triggered in between the removal and addition of resources; the full transfer of resources must
 be resolved, and THEN Mons Insurance must compensate the victim.
 
-If the ability of the [Pharmacy Union](#pharmacy-union-bpro) corporation is triggered by another
+If the ability of [Pharmacy Union](#pharmacy-union-bpro) is triggered by another
 player playing a microbe tag (lose 4 M€ and add a disease token), Mons Insurance DOES NOT have to
 compensate that player for the loss, as it is the ability of Pharmacy Union
 that resulted in the loss of resources, not the other player.
@@ -2275,7 +2279,7 @@ If another player plays a microbe tag and you are forced to remove 4 M€ (or an
 trigger Pharmacy Union’s ability, this is NOT considered an attack; it is not the player playing the
 microbe tag that removes the resources, but rather Pharmacy Union’s own ability. As such, playing a
 microbe tag cannot be considered a valid trigger to allow “[Law Suit](#law-suit-x06-tpro)” to be
-played, nor does it require compensation by the [Mons Insurance](#mons-insurance-pro) Corporation.
+played, nor does it require compensation by [Mons Insurance](#mons-insurance-pro).
 
 The “disease” resource that is stored on Pharmacy Union is NOT the same as a microbe resource.
 
@@ -2302,8 +2306,8 @@ When Pharmacy Union is flipped facedown, it is added to the player’s event pil
 - This card is counted as a played event card for the Global Event
   “[Celebrity Leaders (Solarnet)](#celebrity-leaders-solarnet)”.
 
-- It DOES NOT trigger “[Media Group](#media-group-109-ce)” or the
-  [Interplanetary Cinematics](#interplanetary-cinematics-s) corporation because it does not count as
+- It DOES NOT trigger “[Media Group](#media-group-109-ce)” or
+  [Interplanetary Cinematics](#interplanetary-cinematics-s) because it does not count as
   “playing” an event.
 
 If a card with both a microbe tag and a science tag is played as this corporation, the following
@@ -2653,8 +2657,8 @@ well as Venus (even though the last is not noted on the symbology on the card). 
 play a card requiring -4°C at -8°C, as each STEP for temperature is 2 degrees. The same is true for
 Venus, as each step is 2% Venus.
 
-The effect of this card stacks with the ability of the [Inventrix](#inventrix-s) corporation, the
-[Morning Star Inc.](#morning-star-inc-vn) corporation and the
+The effect of this card stacks with the ability of [Inventrix](#inventrix-s),
+[Morning Star Inc.](#morning-star-inc-vn) and the
 “[Special Design](#special-design-206-s)” card, such that when used with one (or two) of these other
 effects you can play a card 4 (or 6) steps above or below the corresponding global parameter
 requirements on that card. “Adaptation Technology” cannot be used to supersede other card
@@ -2697,7 +2701,8 @@ resources from the general supply).
 
 The “steal” action is a simultaneous removal of resources from an opponent and addition of resources
 to the active player, rather than two separate actions. As such, it cannot be split up for the
-purposes of resolving the effect of the [Mons Insurance](#mons-insurance-pro) corporation. To play this card, you MUST forfeit 1 floater from a card you own, even if you decide not
+purposes of resolving the effect of [Mons Insurance](#mons-insurance-pro). To play this card, you
+MUST forfeit 1 floater from a card you own, even if you decide not
 to steal any M€ (e.g., to avoid triggering the “[Law Suit](#law-suit-x06-tpro)” card).
 
 ([Source](https://boardgamegeek.com/article/36488491#36488491))
@@ -2731,7 +2736,7 @@ have “[Advanced Alloys](#advanced-alloys-071-ce)”, “[Rego Plastics](#rego-
 both each steel you use is worth 3 M€ (or 4 M€) towards paying for an ocean tile with this card,
 just like paying for building cards.
 
-Discounts on building tags ([Cheung Shing Mars](#card-cheung-shing-mars) Corporation) DO NOT change
+Discounts on building tags ([Cheung Shing Mars](#card-cheung-shing-mars)) DO NOT change
 the cost of this action.
 
 ### Arctic Algae 023 (S)
@@ -2830,12 +2835,11 @@ special tile.
 ### Carbon Nanosystems X52 (P2/PRO)
 
 The graphene resources on this card are always worth the same toward space/city cards and aren’t
-affected by cards like “[Advanced Alloys](#advanced-alloys-071-ce)”, the [PhoboLog](#phobolog-s)
-corporation, etc.
+affected by cards like “[Advanced Alloys](#advanced-alloys-071-ce)”, [PhoboLog](#phobolog-s), etc.
 
 ### Caretaker Contract 154 (CE)
 
-If playing this card as the [Stormcraft](#stormcraft-inc-c) corporation, you may spend floaters as 2
+If playing this card as [Stormcraft](#stormcraft-inc-c), you may spend floaters as 2
 heat each when using the action on “Caretaker Contract”.
 
 ### CEO’s Favorite Project 149 (CE)
@@ -2860,9 +2864,10 @@ to a city. It can be placed on any non-reserved area.
 ### Community Services C04 (C)
 
 This card counts only YOUR OWN cards without tags, not every player’s tagless cards. The wild tag
-cards “[Research Coordination](#research-coordination-p40-p)”, [Research Network](#research-network) (Prelude card) and
+cards “[Research Coordination](#research-coordination-p40-p)”,
+[Research Network](#research-network) and
 [Septem Tribus](#septem-tribus-t)
-(Corporation) count as cards with no tags for
+count as cards with no tags for
 “Community Services”;
 the wild tag counts as _no tag
 at all_ until you choose it to be one for a given action.
@@ -2993,8 +2998,8 @@ the time that it is played_. The 9 types can be any combination of the following
   - Camp resources (“[Refugee Camps](#card-refugee-camps)”)
   - Science resources
   - Asteroid resources
-  - Disease resources ([Pharmacy Union](#pharmacy-union-bpro) corporation)
-  - Preservation resources ([Pristar](#pristar-t) corporation)
+  - Disease resources ([Pharmacy Union](#pharmacy-union-bpro))
+  - Preservation resources ([Pristar](#pristar-t))
   - Hydroelectric resources (“[Neptunian Power Consultants](#card-neptunian-power-consultants)”)
   - Graphene resources (“[Carbon Nanosystems](#carbon-nanosystems-x52-p2pro)”)
 
@@ -3064,7 +3069,7 @@ While the production effects of the card are MANDATORY, they can be resolved in 
 if no player has energy production, this card can still be played to raise your own energy
 production and then reduce it again (i.e., if you required the tag, etc.).
 
-If playing this card as the [Manutech](#manutech-vn) corporation, raising your energy would provide
+If playing this card as [Manutech](#manutech-vn), raising your energy would provide
 1 energy resource (even if you later reduced your own energy production).
 
 ([Source](https://boardgamegeek.com/article/42862758#42862758))
@@ -3140,7 +3145,7 @@ If you cannot reduce another player’s M€ production (i.e. if every other pla
 -4 or -5) OR you choose not to target another player, you can reduce your production and increase it
 again.
 
-If doing this as the [Manutech](#manutech-vn) corporation, you would still gain 2 M€ when M€
+If doing this as [Manutech](#manutech-vn), you would still gain 2 M€ when M€
 production was increased (even if it was subsequently reduced).
 
 While the production effects of the card are MANDATORY, they can be resolved in any order. If you
@@ -3165,8 +3170,8 @@ stalling tactic using this card.
 When playing any solo variant of the game, you steal 3 M€ or 2 Steel from your neutral opponent
 (i.e., take the resources from the general supply). The “steal” action is a simultaneous removal of
 resources from an opponent and addition of resources to the active player, rather than two separate
-actions. As such, it cannot be split up for the purposes of resolving the effect of the
-[Mons Insurance](#mons-insurance-pro) corporation.
+actions. As such, it cannot be split up for the purposes of resolving the effect of
+[Mons Insurance](#mons-insurance-pro).
 
 ([Source](https://boardgamegeek.com/article/36488491#36488491))
 
@@ -3192,7 +3197,7 @@ This card will allow a player to raise their M€ production by 1 M€ for every
 When playing this card, you must reduce your energy production by 1, reduce your M€ production by 2,
 and raise your M€ production by 1 when the effect is triggered. This means that the net change is -1
 Energy production and -1 M€ production, but it is worthwhile remembering that when you increase your
-M€ production by 1 with the [Manutech](#manutech-vn) Corporation, which would grant 1 M€ when
+M€ production by 1 with [Manutech](#manutech-vn), which would grant 1 M€ when
 playing this card. Note that the above effects can be done in ANY order after the card has been paid
 for. Therefore, if you are at -4 M€ production, you can choose to place the city, gain 1 M€
 production, then lose 2 M€ production thereafter (to avoid going below -5 M€ production, which is
@@ -3271,7 +3276,7 @@ the card (you just collect an equal amount of M€ from the bank and add it to y
 This card cannot be used to claim a spot reserved for an ocean, or one reserved for
 “[Noctis City](#noctis-city-017-s)” on the standard board.
 
-When playing this card as [Arcadian Communities](#arcadian-communities-pro) (PROMO Corporation), the
+When playing this card as [Arcadian Communities](#arcadian-communities-pro) (PROMO), the
 following should be noted:
 
 - The “Land Claim” cube acts as a community, without the placement restriction of placing next to
@@ -3368,9 +3373,9 @@ can still be sold for 1 M€.
 
 The “steal” action is a simultaneous removal of resources from an opponent and addition of resources
 to the active player, rather than two separate actions. As such, it cannot be split up for the
-purposes of resolving the effect of the [Mons Insurance](#mons-insurance-pro) corporation.
+purposes of resolving the effect of [Mons Insurance](#mons-insurance-pro).
 
-The starting condition of the Mons Insurance corporation (All opponents
+The starting condition of Mons Insurance (All opponents
 decrease their M€ production 2 steps), is not considered an attack for the purposes of “Law Suit”,
 as each opponent is decreasing their own production, rather than the
 Mons Insurance player decreasing their opponents’ production. As such, this
@@ -3385,13 +3390,14 @@ This card cannot be played against yourself, as it is unplayable in the solo gam
 
 ### Local Heat Trapping 190 (S)
 
-If playing the [Stormcraft Inc.](#stormcraft-inc-c) corporation, you can use floaters to pay for the
+If playing [Stormcraft Inc.](#stormcraft-inc-c), you can use floaters to pay for the
 5 heat required by the card.
 
 ### Luna Governor C20 (C)
 
 Since this card has 2 Earth tags and costs 4 M€, it is discounted to 0 when played with
-“[Earth Office](#earth-office-105-ce)” or the [Teractor](#teractor-ce) Corporation (both provide a 3 M€ discount per Earth tag).
+“[Earth Office](#earth-office-105-ce)” or [Teractor](#teractor-ce) (both provide a 3 M€ discount per
+Earth tag).
 
 ### Magnetic Field Generators X33 (B/PRO)
 
@@ -3479,14 +3485,14 @@ played_ only.
 
 ### Meltworks X21 (B/PRO)
 
-If playing the [Stormcraft](#stormcraft-inc-c) corporation, you can use floaters to pay some or all
+If playing [Stormcraft](#stormcraft-inc-c), you can use floaters to pay some or all
 of the cost for the action on “Meltworks”. If you choose to use 3 floaters (6 heat worth), you will
 NOT get “change” in the form of 1 heat back.
 
 ### Mercurian Alloys X07 (T/PRO)
 
 This card’s effect stacks with “[Advanced Alloys](#advanced-alloys-071-ce)” and with the
-[PhoboLog](#phobolog-s) Corporation effect; if you have two (or three) of these, your titanium
+[PhoboLog](#phobolog-s) effect; if you have two (or three) of these, your titanium
 resources are worth 5 (or 6) M€ each. The Ruling Policy of the [Unity](#unity) party also stacks with these effects, increasing
 the value of your titanium by an additional 1 M€ when spending them while this party is ruling.
 
@@ -3497,15 +3503,14 @@ This tile MUST be placed on a space that grants 1 (or more) steel OR 1 (or more)
 - It CAN be placed on spots that grant other resources in addition to steel or titanium.
 
 - It MUST be placed next to a tile you own – not only next to a marker from
-  “[Land Claim](#land-claim-066-ce)” or the [Arcadian Communities](#arcadian-communities-pro)
-  Corporation.
+  “[Land Claim](#land-claim-066-ce)” or [Arcadian Communities](#arcadian-communities-pro).
 
 - If you have no tiles on the board, this card cannot be played.
 
 If this card is copied by “[Robotic Workforce](#robotic-workforce-086-ce)”, you must copy the exact
 production that was obtained when the tile was first placed.
 
-If this tile is placed by the [Mining Guild](#mining-guild-s) Corporation, you obtain 1 steel
+If this tile is placed by [Mining Guild](#mining-guild-s), you obtain 1 steel
 production (for the corporation) PLUS 1 steel or titanium production (based on where you placed the
 tile).
 
@@ -3516,8 +3521,8 @@ This tile MUST be placed on a space that grants 1 (or more) steel OR 1 (or more)
 - It CAN be placed on spots that grant other resources in addition to steel or titanium.
 
 If this card is copied by “[Robotic Workforce](#robotic-workforce-086-ce)”, you must copy the exact
-production that was obtained when the tile was first placed. If this tile is placed by the
-[Mining Guild](#mining-guild-s) Corporation, you obtain 1 steel production (for the corporation)
+production that was obtained when the tile was first placed. If this tile is placed by
+[Mining Guild](#mining-guild-s), you obtain 1 steel production (for the corporation)
 PLUS 1 steel or titanium production (based on where you placed the tile).
 
 ### Minority Refuge C26 (C)
@@ -3609,7 +3614,7 @@ While the production effects of the card are MANDATORY, they can be resolved in 
 if no player has energy production, this card can still be played to raise your own energy
 production and then reduce it again (i.e., if you required the tag, etc.).
 
-If playing this card as the [Manutech](#manutech-vn) corporation, raising your energy would provide
+If playing this card as [Manutech](#manutech-vn), raising your energy would provide
 1 energy resource (even if you later reduced your own energy production).
 
 ([Source](https://boardgamegeek.com/article/42862758#42862758))
@@ -3647,7 +3652,7 @@ you have multiple colonies on [Pluto](#pluto), each colony bonus must be resolve
 This card allows you to use one of YOUR card actions a second time in a generation, and not another
 player’s.
 
-It works exactly like the [Viron](#viron-vn) corporation ability.
+It works exactly like the [Viron](#viron-vn) ability.
 
 A card action is defined as an action that includes a red arrow that can be used once per
 generation. Note that a card action is NOT a corporation’s mandatory first action.
@@ -3723,8 +3728,8 @@ per area.
 
 - Tiles in space (i.e., not on Mars) are considered to have zero empty areas adjacent to them.
 
-- Areas with only a “[Land Claim](#land-claim-066-ce)” token or a community placed by the
-  [Arcadian Communities](#arcadian-communities-pro) corporation are still considered “empty” for the
+- Areas with only a “[Land Claim](#land-claim-066-ce)” token or a community placed by
+  [Arcadian Communities](#arcadian-communities-pro) are still considered “empty” for the
   purposes of this card, as they do not have tiles on them.
 
 ([Source 1](https://boardgamegeek.com/article/33634574#33634574),
@@ -3751,8 +3756,8 @@ Playing this card counts as playing 2 Science cards only for the purposes of tri
 
 Although this card states that it “counts as playing 2 Science cards”, you are still allowed to do a
 second action on the same turn that you play it (i.e., playing it only consumes 1
-action). This card is discounted by 4 M€ when playing with the [Valley Trust](#valley-trust-p)
-corporation (2 M€ per Science tag).
+action). This card is discounted by 4 M€ when playing with [Valley Trust](#valley-trust-p)
+(2 M€ per Science tag).
 
 Once played, this card only counts as a single card; as such it would not count as 2 cards towards
 the [Tycoon](#tycoon-exm) milestone or the [Magnate](#magnate-hxa) award.
@@ -3808,7 +3813,7 @@ A floater must still be spent to trade using that card, even with “Rim Freight
 
 - Only a production box on the lower panel (on a green or blue card) can be copied, or production on
   a corporation that is NOT part of an action or effect. For example, “Robotic Workforce” can copy
-  the steel production from the [Factorum](#factorum-pro) corporation, but not the energy
+  the steel production from [Factorum](#factorum-pro), but not the energy
   production.
 
 - If copying a card that reduces production of any player (e.g.,
@@ -3951,7 +3956,7 @@ Having the “[Advanced Alloys](#advanced-alloys-071-ce)” or
 on this card action.
 
 However, “Advanced Alloys”, “Rego Plastics”,
-“[Mercurian Alloys](#mercurian-alloys-x07-tpro)”, the [PhoboLog](#phobolog-s) corporation and the
+“[Mercurian Alloys](#mercurian-alloys-x07-tpro)”, [PhoboLog](#phobolog-s) and the
 [Unity](#unity) party Ruling Policy would increase the value of steel and/or titanium used to pay
 for the card when first playing it (given that it has both building and space tags).
 
@@ -3983,8 +3988,8 @@ well as Venus (even though the last is not noted on the symbology on the card) f
 play this generation. This means you can play a card requiring -4°C at -8°C, as each STEP for
 temperature is 2 degrees. The same is true for Venus, as each step is 2% Venus.
 
-The effect of this card stacks with the ability of the [Inventrix](#inventrix-s) corporation, the
-[Morning Star Inc.](#morning-star-inc-vn) corporation and the
+The effect of this card stacks with the ability of [Inventrix](#inventrix-s),
+[Morning Star Inc.](#morning-star-inc-vn) and the
 “[Adaptation Technology](#adaptation-technology-153-s)” card, such that when used with one (or two)
 of these other effects you can play a card 4 (or 6) steps above or below the corresponding global
 parameter requirements on that card.
@@ -4048,7 +4053,7 @@ refers to tiles ON MARS.
 
 This city cannot make any adjacencies, even with off-planet cities like
 “[Phobos Space Haven](#card-phobos-space-haven)” or “[Ganymede Colony](#ganymede-colony-081-s)”, and
-therefore it CANNOT trigger the [Philares](#philares-pro) corporation ability. This city counts
+therefore it CANNOT trigger the [Philares](#philares-pro) ability. This city counts
 towards the [Landlord](#landlord-txa) Award, and also counts towards scoring
 “[Immigration Shuttles](#immigration-shuttles-198-s)”.
 
@@ -4225,8 +4230,8 @@ Description: Most cards with no tags.
 
 Corporation and Prelude cards without tags are counted for this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) WILL count toward this Award as they are considered no tag when not being used in an action.
 
 ([Source](https://boardgamegeek.com/article/32893227#32893227))
@@ -4239,8 +4244,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4254,8 +4259,8 @@ cards, corporations, and Prelude cards all count towards this Milestone.
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ### Banker T/X:A
@@ -4277,8 +4282,8 @@ corporations, and Prelude cards all count towards this Award.
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4296,7 +4301,7 @@ Description: Highest plant production.
 Description: To get this milestone, pay 12 M€, in addition to the normal claim cost of 8 M€ (so, 20
 M€ total).
 
-If playing the [Nirgal Enterprises](#card-nirgal-enterprises) corporation, the 12 M€ extra cost
+If playing [Nirgal Enterprises](#card-nirgal-enterprises), the 12 M€ extra cost
 would still need to be paid to claim this Milestone (only the 8 M€ base cost is discounted).
 
 ### Builder T/X:M
@@ -4308,8 +4313,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4363,8 +4368,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4386,8 +4391,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4404,8 +4409,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4418,8 +4423,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4590,8 +4595,8 @@ cards all count towards this Award.
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4669,7 +4674,7 @@ Milestones/Awards expansion, then this milestone only requires 4 event cards pla
 This Milestone can be claimed once a player has 5/4 cards in their event pile, including:
 
 - “[Law Suit](#law-suit-x06-tpro)”, played by another player but placed in the target’s event pile.
-- The [Pharmacy Union](#pharmacy-union-bpro) corporation after it is flipped, as it is placed in the
+- [Pharmacy Union](#pharmacy-union-bpro) after it is flipped, as it is placed in the
   event pile once this happens.
 
 ([Source](https://boardgamegeek.com/article/35867765#35867765))
@@ -4756,8 +4761,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4784,8 +4789,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4827,7 +4832,7 @@ Not all types need to be represented and negative M€ production subtracts from
 Description: Most cards in your event pile.
 
 This Award includes the “[Law Suit](#law-suit-x06-tpro)” event if it was played against you as well
-as the [Pharmacy Union](#pharmacy-union-bpro) corporation if you happened to flip it during the
+as the corporation card [Pharmacy Union](#pharmacy-union-bpro) if you happened to flip it during the
 game.
 
 ### Researcher X:M
@@ -4838,8 +4843,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count towards this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4852,8 +4857,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4866,8 +4871,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4880,8 +4885,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4895,8 +4900,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -4974,8 +4979,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Milestone.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) count toward this Milestone.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -5000,7 +5005,7 @@ Description: Having most heat resources.
 The total amount of heat resources is tallied after the final production phase and would include any
 heat produced during that phase AND any energy cubes converted as part of that production phase.
 
-Note that when resolving this award, floaters on the [Stormcraft](#stormcraft-inc-c) corporation do
+Note that when resolving this award, floaters on [Stormcraft](#stormcraft-inc-c) do
 NOT count towards this award. These floaters can be used as heat during the game but are still
 considered floaters. ([Source](https://boardgamegeek.com/article/30672335#30672335))
 
@@ -5029,8 +5034,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count toward this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) DO NOT count toward this Award.
 
 ([Source](https://boardgamegeek.com/article/26761449#26761449))
@@ -5059,8 +5064,8 @@ Tags on blue cards, green cards, corporations, and Prelude cards all count towar
 
 Tags on event cards DO NOT count towards this Award.
 
-Wild tags (from the project card “[Research Coordination](#research-coordination-p40-p)”,
-[Septem Tribus](#septem-tribus-t) corporation, Prelude card [Research Network](#research-network),
+Wild tags (from “[Research Coordination](#research-coordination-p40-p)”,
+[Septem Tribus](#septem-tribus-t), [Research Network](#research-network),
 etc.) do NOT count towards any Awards.
 
 If playing with the Venus Next expansion, this Award is added to the 5 existing Awards on the board
@@ -5109,9 +5114,9 @@ playing that corporation.
 This Prelude would copy any direct effects of another Prelude including any production provided by
 the Prelude but would NOT copy the tags on that Prelude.
 
-If this is your third (or fourth) Prelude play (e.g. with the [Valley Trust](#valley-trust-p)
-corporation and/or [New Partner](#card-new-partner) prelude) you can choose any of the previously
-played Preludes to copy.
+If this is your third (or fourth) Prelude play (e.g. with the corporation card
+[Valley Trust](#valley-trust-p) and/or the [New Partner](#card-new-partner) prelude) you can
+choose any of the previously played Preludes to copy.
 
 ### Ecology Experts
 
@@ -5323,7 +5328,7 @@ If playing with the Milestones and Awards expansion and the [Hydrologist](#hydro
 Milestone, no player marker would be placed on this ocean.
 
 Any triggers for ocean placement (e.g., Plants for “[Arctic Algae](#arctic-algae-023-s)”, M€
-production for [Lakefront Resorts](#lakefront-resorts-t) corporation, etc.) would still apply. If
+production for [Lakefront Resorts](#lakefront-resorts-t), etc.) would still apply. If
 placing an ocean with this event would max all parameters, the game still goes another generation
 until a game end check (which occurs in the Solar Phase BEFORE the Turmoil step).
 
@@ -5353,7 +5358,7 @@ the purposes of this event (not everyone’s events combined).
 The events tallied for this Global Event would include the “[Law Suit](#law-suit-x06-tpro)” card if
 it was played against you and is in your event pile.
 
-If you are playing the [Pharmacy Union](#pharmacy-union-bpro) corporation and successfully flipped
+If you are playing [Pharmacy Union](#pharmacy-union-bpro) and successfully flipped
 the corporation over, it is added to your event pile and counts as an event (including for this
 Global Event).
 
@@ -5424,7 +5429,7 @@ Cities that are not on Mars still count towards this event
 ### Global Dust Storm (Heat First Policy)
 
 For this event, the heat is lost FIRST, then each player loses M€ based on building tags. As with
-all events, effects are resolved left to right; as such the [Helion](#helion-s) corporation cannot
+all events, effects are resolved left to right; as such [Helion](#helion-s) cannot
 use heat to pay for the penalty for the second effect.
 
 ([Source](https://boardgamegeek.com/article/33588052#33588052))
@@ -5565,7 +5570,7 @@ The Ruling Policy for all parties, including this one (Gain 4 M€ each time you
 tile) is only active during the Action Phase. As such, any Prelude Card that would give you a
 Greenery would NOT trigger this effect, as it occurs prior to the action phase.
 
-The greenery placed by the [Philares](#philares-pro) corporation WOULD trigger this effect, as
+The greenery placed by [Philares](#philares-pro) WOULD trigger this effect, as
 placing the greenery would be your first action of the game.
 
 At the end of the game, final conversion of plants to greeneries and placements are carried out as
@@ -5591,7 +5596,7 @@ Using this action would count as a single action on a turn (just like using a bl
 ### Mars First
 
 When Mars First is the ruling party, granting a steel resource whenever a tile is placed on Mars,
-the [Mining Guild](#mining-guild-s) corporation effect (“Each time you place a tile on an area with
+the [Mining Guild](#mining-guild-s) effect (“Each time you place a tile on an area with
 a steel or titanium placement bonus, increase your steel production 1 step”) is still not triggered
 unless the tile is placed on an area with a printed steel/titanium bonus. The Ruling Policy does not
 count as a Placement Bonus.
@@ -5647,7 +5652,7 @@ For the ruling policy, a player can pay 10 M€ to draw 3 cards.
   paying 10 M€ to _draw 3 cards_, rather than _buying_ 3 project cards, the corporation effects
   would not apply.
 
-- This action can only be done once per player. The [Viron](#viron-vn) corporation cannot
+- This action can only be done once per player. [Viron](#viron-vn) cannot
   repeat this action, nor can the “[Project Inspection](#project-inspection-x02-tpro)” card be used
   to perform this action again.
 
@@ -5658,7 +5663,7 @@ tags). You would simply get 1 M€ for each tag of any of those types that you h
 
 The Ruling Policy of this party stacks with the effects of
 “[Advanced Alloys](#advanced-alloys-071-ce)”, “[Mercurian Alloys](#mercurian-alloys-x07-tpro)” and
-the [PhoboLog](#phobolog-s) corporation.
+[PhoboLog](#phobolog-s).
 
 Wild tags cannot be used to obtain the Ruling Bonus as these tags are not considered any tag unless
 used during an action (and Ruling Bonuses are resolved during the Solar Phase NOT the Action Phase).
