@@ -539,7 +539,7 @@ This card CANNOT be used as a tag:
   - A card with a Wild tag would be considered one with NO tag and WOULD count toward the
     [Administrator](#administrator-xa) Award from the Milestone and Awards expansion.
 - When drawn during an action that requires a certain tag to be drawn (e.g.,
-  “[Search for Life](#search-for-life-005-s)” – _If the card has a microbe tag, add a Science
+  “[Search for Life](#search-for-life-005-s)” – _If that card has a microbe tag, add a science
   resource here_)
 - At the end of the game when scoring (e.g., it does not count as a Jovian tag when scoring any
   Jovian multiplier, for example “[Ganymede Colony](#ganymede-colony-081-s)”)
@@ -663,26 +663,24 @@ board (megacredits, steel, titanium, plants, energy, or heat) or may refer to cu
 stored on/added to specific project or corporation cards.
 
 Any other resources in the game (typically stored on cards) are non-standard resources. Some cards
-will have a unique resource “type” which is specific to that card, while some resource types are
+will have a unique resource “type”, which is specific to that card, while some resource types are
 used on many different cards. A card can store resources only if it specifies that it can – note
 that there are some cards which can ONLY put resources on other cards, and cannot store resources
 themselves (“[Symbiotic Fungus](#symbiotic-fungus-133-s)”,
 “[Extreme-Cold Fungus](#card-extreme-cold-fungus)”, etc.).
 
-Some common resource types that are associated with many cards include:
+Some common card resource types include:
 
 - Floaters – examples (not an exhaustive list): [Celestic](#celestic-vn),
   “[Dirigibles](#dirigibles-222-vn)”, “[Extractor Balloons](#card-extractor-balloons)”,
   [Stormcraft Inc.](#stormcraft-inc-c) and “[Stratopolis](#card-stratopolis)”.
-
 - Animals – examples (not an exhaustive list): [Arklight](#card-arklight),
   “[Ecological Zone](#ecological-zone-128-s)”, “[Fish](#card-fish)”, “[Pets](#pets-172-s)” and
   “[Stratospheric Birds](#stratospheric-birds-249-vn)”.
 - Microbes – examples (not an exhaustive list): “[Ants](#ants-035-s)”,
   “[Decomposers](#decomposers-131-s)”, “[GHG Producing Bacteria](#ghg-producing-bacteria-034-s)”,
   “[Nitrite Reducing Bacteria](#card-nitrite-reducing-bacteria)” and
-  “[Tardigrades](#card-tardigrades)”. Some resources that have specific cards associated with them
-  include:
+  “[Tardigrades](#card-tardigrades)”.
 - Science resources ([Applied Science](#card-applied-science),
   “[Olympus Conference](#olympus-conference-185-ce)”, “[Physics Complex](#card-physics-complex)”,
   “[Search for Life](#search-for-life-005-s)” and [Spire](#card-spire))
@@ -693,12 +691,11 @@ Some common resource types that are associated with many cards include:
   [Kuiper Cooperative](#card-kuiper-cooperative), [Main Belt Asteroids](#card-main-belt-asteroids)
   and “[Rotator Impacts](#rotator-impacts-243-vn)”)
 - Fighter resources (“[Security Fleet](#card-security-fleet)”)
-
 - Camp resources (“[Refugee Camps](#card-refugee-camps)”)
-
 - Disease resources (“[Hospitals](#card-hospitals)” and [Pharmacy Union](#pharmacy-union-bpro))
-  Typically, resources whether on your player board or on a project/corporation card, are tracked
-  using the standard resource cubes (bronze = 1, silver = 5, gold = 10).
+
+Typically, resources, whether on your player board or on a project/corporation card, are tracked
+using the standard resource cubes (bronze = 1, silver = 5, gold = 10).
 
 ### When can my actions affect an opponent’s production/resources?
 
@@ -830,8 +827,8 @@ Yes. Specifically:
 ### If playing a card that places resources onto a card (animals/floaters/microbes, etc.) can I split them between multiple cards?
 
 No. You must choose a card to receive all of the resources. If receiving multiple types of resources
-(e.g., “[Imported Nitrogen](#card-imported-nitrogen)”, which grants plants, microbes, and animals) you can
-choose a single card for each resource type. Not that if you gain any resources and do not
+(e.g., “[Imported Nitrogen](#card-imported-nitrogen)”, which grants plants, microbes, and animals)
+you can choose a single card for each resource type. Note that if you gain any resources and do not
 have a card that stores that type of resource, these are discarded.
 
 ([Source](https://boardgamegeek.com/article/29488585#29488585))
@@ -1227,7 +1224,7 @@ all for every board. They consist of:
   [Vastitas Borealis](#vastitas-borealis) map.
 
 - Hecates Tholus, Olympus Mons, Ascraeus Mons, Pavonis Mons, or Arsia Mons on the
-  [Amazonis Planitia](#amazonis-planitia).
+  [Amazonis Planitia](#amazonis-planitia) map.
 
 - The [Hellas](#hellas) and [Utopia Planitia](#utopia-planitia) maps lack volcanoes.
 
@@ -1384,10 +1381,10 @@ There are several general rules to follow when placing tiles on the board:
 
 ### What tiles count as a city?
 
-City tiles are placed by the city standard project, Prelude cards, the
-[Tharsis Republic](#tharsis-republic-s) starting action, and certain project cards. They
-are all represented by the same, grey-bordered city tiles, except for “[Capital](#capital-008-s)”
-which places a white coloured city tile.
+City tiles are placed by the city standard project, the [Tharsis Republic](#tharsis-republic-s)
+starting action, and certain project and Prelude cards. They are all represented by the same
+grey-bordered city tiles, except for “[Capital](#capital-008-s)” which places a white coloured city
+tile.
 
 Cities can be on or off-planet; the reserved spots for the off-planet cities are used in conjunction
 with certain cards.
@@ -3328,7 +3325,7 @@ the card. These are spots with **bolded** names, and include:
 - Alba Mons, Uranius Tholus, Hecates Tholus or Elysium Mons on the
   [Vastitas Borealis](#vastitas-borealis) map.
 - Hecates Tholus, Olympus Mons, Ascraeus Mons, Pavonis Mons, or Arsia Mons on the
-  [Amazonis Planitia](#amazonis-planitia).
+  [Amazonis Planitia](#amazonis-planitia) map.
 - Since the [Hellas](#hellas) and [Utopia Planitia](#utopia-planitia) maps lack volcanoes, this tile
   can be placed anywhere.
 
@@ -3349,7 +3346,7 @@ This tile can only be placed on volcanic areas. These are spots with **bolded** 
 - Alba Mons, Uranius Tholus, Hecates Tholus or Elysium Mons on the
   [Vastitas Borealis](#vastitas-borealis) map.
 - Hecates Tholus, Olympus Mons, Ascraeus Mons, Pavonis Mons, or Arsia Mons on the
-  [Amazonis Planitia](#amazonis-planitia).
+  [Amazonis Planitia](#amazonis-planitia) map.
 - Since the [Hellas](#hellas) and [Utopia Planitia](#utopia-planitia) maps lack volcanoes, this tile
   can be placed anywhere.
 
@@ -3557,7 +3554,7 @@ such spot remaining on the board, this card cannot be played.
 
 ### Nitrogen-Rich Asteroid 037 (S)
 
-This card raises your terraform rating by a total of 3 steps – 2 extra terraform rating in addition
+This card raises your Terraform Rating by a total of 3 steps – 2 extra Terraform Rating in addition
 to the 1 for raising temperature.
 
 If this card is played after the temperature has been maxed out, then it still grants 2 TR.
@@ -3774,10 +3771,9 @@ You may keep adding microbes to this card (with no effect) even after the oxygen
 Playing this card counts as playing 2 Science cards only for the purposes of triggering any Science tag effects twice sequentially (e.g.,
 “[Olympus Conference](#olympus-conference-185-ce)” or “[Mars University](#mars-university-073-ce)”).
 
-Although this card states that it “counts as playing 2 Science cards”, you are still allowed to do a
-second action on the same turn that you play it (i.e., playing it only consumes 1
-action). This card is discounted by 4 M€ when playing with [Valley Trust](#valley-trust-p)
-(2 M€ per Science tag).
+Although this card states that it “Counts as playing 2 science cards”, you are still allowed to do a
+second action on the same turn that you play it (i.e., playing it only consumes 1 action). This card
+is discounted by 4 M€ when playing with [Valley Trust](#valley-trust-p) (2 M€ per Science tag).
 
 Once played, this card only counts as a single card; as such it would not count as 2 cards towards
 the [Tycoon](#tycoon-exm) milestone or the [Magnate](#magnate-hxa) award.
@@ -4149,9 +4145,9 @@ If you choose to use “[Ants](#ants-035-s)” to consume a microbe on itself (r
 “Ants” and replace with another, which is allowed) this WILL trigger “Topsoil Contract” to provide 1 M€ as a new microbe is being gained.
 
 If you play “Topsoil Contract” and have already played “[Decomposers](#decomposers-131-s)”
-previously (Effect: When you play an Animal, Plant, or Microbe tag, including this, add a Microbe to
-this card), then the microbe added to “Decomposers” WILL immediately trigger
-“Topsoil Contract” and grant 1 M€.
+previously (Effect: When you play an animal, plant, or microbe tag, including this, add a microbe to
+this card), then the microbe added to “Decomposers” WILL immediately trigger “Topsoil Contract” and
+grant 1 M€.
 
 ### Trade Envoys C46 (C)
 
