@@ -1416,9 +1416,11 @@ tile.
 Cities can be on or off-planet; the reserved spots for the off-planet cities are used in conjunction
 with certain cards.
 
-Special tiles (brown tiles) are also associated with certain cards, but none of these are considered
-cities and most are not worth end-game points apart from what the associated cards would grant. Note
-that “Capital” is not considered a special tile.
+Each special tile has a specific project card that places it. Special tiles are brown, except
+“[Capital](#capital-008-s)”, whose white tile is also a city. Special tiles do not score victory
+points unless otherwise indicated.
+
+([Source](https://boardgamegeek.com/article/23595527#23595527))
 
 ### In what order are end of game greenery tiles placed?
 
@@ -2992,8 +2994,9 @@ all city placement restrictions (not adjacent to another city). It counts as a c
 as well as for the [Mayor](#mayor-tm) milestone.
 
 The white city tile is used when this card is played to indicate that it counts points for adjacent
-water tiles in addition to greeneries. Note that this tile, although unique is NOT considered a
-special tile.
+water tiles in addition to greeneries. This tile is both a city and a special tile.
+
+([Source](https://boardgamegeek.com/article/23595527#23595527))
 
 ### Carbon Nanosystems X52 (P2/PRO)
 
@@ -4655,14 +4658,8 @@ Description: Most tiles adjacent to special tiles.
 Each tile you own that is adjacent to at least 1 special tile would count a single time for this
 Award.
 
-Special tiles refer to any unique tiles associated with a specific card e.g.
-“[Mining Rights](#mining-rights-067-s)”, “[Restricted Area](#card-restricted-area)”,
-“[Ecological Zone](#ecological-zone-128-s)” etc. In the base game these are designated by brown
-cardboard tiles (with special symbols on each that match the card).
-
-Named cities (“[Noctis City](#noctis-city-017-s)”, “[Capital](#capital-008-s)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”, etc.) that are associated with specific cards are NOT
-considered special tiles.
+See the [special-tile definition](#what-tiles-count-as-a-city) above. Cities on remote map areas are
+NOT considered special tiles.
 
 ### Fundraiser X:M
 
@@ -4831,9 +4828,9 @@ Special tiles refer to any unique tiles associated with a specific card e.g.
 “[Ecological Zone](#ecological-zone-128-s)” etc. In the base game these are designated by brown
 cardboard tiles (with special symbols on each that match the card).
 
-Named cities (“[Noctis City](#noctis-city-017-s)”, “Capital”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”, etc.) that are associated with specific cards are NOT
-considered special tiles.
+Named cities (“[Noctis City](#noctis-city-017-s)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)”, etc.) are NOT considered special tiles, except
+“[Capital](#capital-008-s)”, which is both a city and a special tile.
 
 ### Legend E/X:M
 
@@ -5088,9 +5085,9 @@ Special tiles refer to any unique tiles associated with a specific card e.g.
 “[Ecological Zone](#ecological-zone-128-s)” etc. In the base game these are designated by brown
 cardboard tiles (with special symbols on each that match the card).
 
-Named cities (“[Noctis City](#noctis-city-017-s)”, “[Capital](#capital-008-s)”,
-“[Stanford Torus](#stanford-torus-x12-tpro)”, etc.) that are associated with specific cards are NOT
-considered special tiles.
+Named cities (“[Noctis City](#noctis-city-017-s)”,
+“[Stanford Torus](#stanford-torus-x12-tpro)”, etc.) are NOT considered special tiles, except
+“[Capital](#capital-008-s)”, which is both a city and a special tile.
 
 ### Sponsor Am/X:M
 
