@@ -1309,33 +1309,21 @@ allow you to raise temperature and place an ocean respectively.
   map, you MUST still spend 6 M€ on Hellas and 4 M€ on Vastitas Borealis to place a tile on the
   corresponding space (getting no other benefit for doing so).
 
-The MSL curiosity space on the [Terra Cimmeria](#terra-cimmeria) board functions in a similar
-fashion to the poles on Hellas/Vastitas Borealis and grants a colony (if playing with the Colonies
-expansion).
-
-- The MSL Curiosity space allows you to place a colony as long as 5 M€ are paid.
-- The 5 M€ payment required for placing a tile on these spaces can be forfeit at any time during the
-  action to place a tile there. For example, you can place a colony on [Europa](#europa), obtain an
-  ocean as a colony bonus, place that ocean next to two others to get 4 M€ then pay the 5 M€
-  required for tile placement on MSL Curiosity.
-- If there are no valid colony spaces for you to place a colony, you MUST still spend 5 M€ to place
-  a tile on MSL Curiosity (getting no other benefit for doing so).
-  - The colony you obtain from this space must still respect the rule of not being placed on a
-    colony tile where you already have a colony.
-- If you are not playing with the Colonies expansion, this space would act as an empty space like
-  any other with no placement bonus.
-  - 5 M€ would NOT be required to place a tile here.
+- With Colonies, the [MSL Curiosity space on Terra Cimmeria](#terra-cimmeria) requires you to spend
+  5 M€ and place a colony. If you cannot place a colony, you CANNOT place a tile there. See the
+  map’s entry for placement restrictions and payment timing.
 
 Some placement bonuses grant delegates (if playing with the Turmoil expansion).
 
-- Delegates obtained as a placement bonus can be placed in any party from the reserve (the Lobby is
-  considered part of the reserve for supply purposes, and a delegate can be taken from the Lobby if
-  you choose).
-- If you have no delegates in the reserve or Lobby, these placement bonuses would have no effect
-  when tiles are placed there.
-- If you are not playing with the Turmoil expansion, delegate placement bonuses can be ignored.
+- Delegates obtained as a placement bonus can be placed in any party from your reserve (including
+  the Lobby).
+- You MUST place all delegates the bonus grants. If you do not have enough delegates in your reserve
+  (including the Lobby), you CANNOT place a tile there.
+- If you are not playing with Turmoil, ignore all delegate placement bonuses.
   Volcanic spaces would still be considered volcanic in this situation (Olympus Mons and Ascraeus
   Mons on the Amazonis Planitia board).
+
+([Source](https://boardgamegeek.com/article/44267734#44267734))
 
 ### What are the rules for placing tiles?
 
@@ -2086,14 +2074,17 @@ Cards that are specific to volcanic areas (e.g.,
 If you are not playing with the Colonies expansion, the MSL Curiosity placement bonus can be ignored
 and this space can be treated as an empty space. 5 M€ would not be required to place a tile there.
 
-If playing with the Colonies expansion, a tile can be placed on the MSL Curiosity area to get a
-colony for 5 M€. The 5 M€ cost for placing a colony is an effect that can be resolved any time
-during the action to place a tile there. For example, you can place a tile on MSL Curiosity, place a
-colony, obtain colony placement bonuses and then pay the 5 M€ cost (even using funds that may have
-been obtained during the action).
+If playing with the Colonies expansion, placing a tile on the MSL Curiosity area requires you to
+spend 5 M€ and place a colony. You may pay the 5 M€ at any time during the action. For example, you
+can place a tile on MSL Curiosity, place a colony, obtain colony placement bonuses and then pay the
+5 M€ cost (even using funds that may have been obtained during the action).
 
-If there are no valid colony spots for you remaining, you still must pay 5 M€ to place a tile on MSL
-Curiosity (receiving nothing in return).
+Placing the colony is mandatory. If no colony tile can legally take your colony (each has
+3 colonies, already has your colony, or is inactive awaiting a card that collects its resource), you
+CANNOT place a tile on MSL Curiosity or move the “[Mars Nomads](#card-mars-nomads)” marker there.
+
+([Source 1](https://boardgamegeek.com/article/43755578#43755578),
+[Source 2](https://boardgamegeek.com/article/44267734#44267734))
 
 If all volcanic areas on this map have tiles on them, any card that places a tile on a volcanic area
 (“[Lava Flows](#lava-flows-140-s)” and “[Lava Tube Settlement](#lava-tube-settlement-p37-p)”) CANNOT
