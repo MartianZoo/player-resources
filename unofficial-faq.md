@@ -429,16 +429,19 @@ Delegate requirements indicate that the player must hold a Party leader or the C
 
 ### If a card requires me to lower production of “X” resource by one, can I play it if I have zero production of that resource?
 
-Except for M€, no. Changes in production are MANDATORY effects on a card and must be met if a card
-is to be played. If a production box has a red outline, then ANY production can be reduced – either
-your own or an opponent’s. However, if NO PLAYER has production of that resource to reduce, the card
-cannot be played.
+You must be able to resolve the production loss. Production cannot go below 0, except M€ production,
+which can go down to -5. If the production box has a red outline, you may reduce your own or an
+opponent’s production.
 
-The exception is M€ production, which can be reduced below 0 to a minimum of -5 but no lower than
-that.
+You may resolve a production gain first, then the loss, unless the card specifies an order. For
+example, “[Energy Tapping](#energy-tapping-201-ce)” and
+“[Power Supply Consortium](#power-supply-consortium-160-ce)” can raise your energy production first
+and then reduce it, even if no player had energy production before the card was played.
 
 If you are playing the solo game and play a card that reduces ANY production (red outline), you may
 reduce the production of the (imaginary) neutral opponent rather than your own.
+
+([Source](https://boardgamegeek.com/article/42862758#42862758))
 
 ### What are tags?
 
@@ -447,7 +450,7 @@ cards). Some cards do not have tags, but most in the game do.
 
 - There are currently 12 different tags in the game – Earth, Space, Building, Energy, Science,
   Microbe, Animal, Plant, Venus, Jovian, City and Event tags.
-  - 11 of these are face-up tags, with the Event tag always being facedown.
+  - 11 of these normally remain face up; Event cards are placed facedown after they are resolved.
 - The Wild tag is not considered a distinct tag, but after being played, it can count as any other
   tag that you choose when performing an action.
 - Tags on events (e.g., space, science, earth, etc.) apply for triggers/discounts/tag counts **when
@@ -456,10 +459,9 @@ cards). Some cards do not have tags, but most in the game do.
   “[Solar Probe](#card-solar-probe)” (Draw 1 card for every 3 science tags you have, including this)
   is played, the science tag on the card counts towards the total science tags tallied for the card
   effect. After the event card has been played, it is turned facedown and the science/space tags on
-  the card have no further effect in the game. For this reason, the tags on an event card are never
-  considered to be put into or enter play.
-- The yellow downward arrow on any event IS considered a tag in game (the Event tag), but like all
-  tags on event cards these never enter play.
+  the card are no longer in play.
+- The yellow downward arrow on an event IS a tag (the Event tag). Like its other tags, it is in play
+  while the card is being resolved, then leaves play when the card is placed facedown.
   - A card with only the Event tag would trigger the
     [Sagitta Frontier Services](#sagitta-frontier-services-pro) effect granting 1 M€ when played.
 - When a card requires certain tags to play it, the tags on that card DO NOT count towards the
@@ -496,9 +498,12 @@ effects. As well, other than event cards (which go facedown after being played) 
 cards, blue cards, corporations, and Prelude cards are active and can be used to meet requirements
 for certain cards, milestones, and awards.
 
-Note that many project cards/corporation cards will trigger their own effects with their tags. In
-these cases, the card will usually specify “including this” (e.g., for [Point Luna](#point-luna-p),
-the Earth tag on the corporation triggers its Effect, allowing you to draw a card immediately).
+Triggerable effects on a card are active as soon as the card is paid for in full, so its own tags
+can trigger those effects. Instructions on the card that count tags also always count its own tags.
+In these cases, the card text almost always says “including this”, but the rule still applies when
+that reminder is missing, as on “[Diaspora Movement](#diaspora-movement-t04-t)”.
+
+([Source](https://boardgamegeek.com/article/37304776#37304776))
 
 Wild tags cannot trigger effects when being played; they only function as a tag after they have been
 played, on a subsequent action.
@@ -618,7 +623,7 @@ Unlimited actions. Each turn consists of 1 or 2 actions, after which each other 
 actions until it is your turn again, at which point you can perform another 1 or 2 actions or pass.
 This process continues until every player has passed.
 
-Note that blue cards/corporations with red action arrows can only be used once per generation, but
+An action card can be used only once per generation, but
 actions on the player board (converting 8 plants to 1 greenery, or 8 heat to 1 temperature) as well
 as standard projects listed on the game board (e.g., [Power Plant](#what-are-standard-projects),
 Asteroid, Aquifer, etc.) can be done as many times per generation as you have the resources for.
@@ -908,6 +913,7 @@ action):
 - Any production boxes at the bottom of the card (one-time effects when the card is played) must be
   satisfied. If the production is red bordered, you can reduce any player’s production; if no other
   player has the production required, you must reduce your own or you cannot play the card.
+  You may resolve a production gain before the loss, unless the card specifies an order.
   Production for steel, titanium, plants, energy, and heat cannot go below 0. Production for M€
   cannot go below -5.
   - This rule does not apply to Global Event cards during the Turmoil step of the Solar Phase. If
@@ -935,8 +941,8 @@ action):
   from any card, and “[Sponsored Academies](#sponsored-academies-247-vn)” – discard 1 card from hand
   and then draw 3 cards).
 
-- If performing an action on a blue bordered card, you must be able to pay the cost of the action
-  (if any) on the left side of the arrow in order to perform the action. Note that discounts you may
+- If performing an action on a card, you must be able to pay the cost of the action
+  (if any) on the left side of the arrow in order to perform the action. Discounts you may
   have for playing project cards DO NOT apply to the cost of actions. This also applies in cases
   where the “cost” of the action (to the left of the arrow) is red-bordered and can be performed on
   any player (e.g., “[Ants](#ants-035-s)”); you must remove a resource from any player in order to
@@ -960,6 +966,12 @@ action):
   as normal, and the awarded microbes would not be added (mostly applicable when blocking another
   player).
 
+- Passive effects on project cards, corporations, and Preludes trigger automatically when their
+  conditions are met. Their required instructions must be resolved as part of the card or action
+  that triggered them. If you cannot resolve a mandatory triggered instruction, you cannot play the
+  card or perform the action that would trigger it, except in the cases listed below. Forgetting an
+  automatic trigger is a rules error, not an option to skip it.
+
 - If your corporation has action to be performed “as your first action”, this action MUST be
   performed before you can perform any other actions (assuming you are able to). If for any reason
   you are not able to perform your mandatory first action (e.g., if all 3 Awards are claimed before
@@ -980,7 +992,7 @@ perform the action even if the effect is not met:
   without raising that parameter, and you would not get any TR that you normally would have
   received.
 
-- When performing an action on a blue bordered card that would raise a global parameter that is
+- When performing an action on a card that would raise a global parameter that is
   already maxed. You can still perform the action (paying all appropriate costs) without having any
   effect of the action (e.g., you are allowed to use
   “[Water Splitting Plant](#card-water-splitting-plant)” when oxygen is maxed as long as you forfeit
@@ -1003,26 +1015,42 @@ perform the action even if the effect is not met:
   - For example, if a global event states that everyone would lose 1 energy production but you have
     none, this event would not affect you.
 
-- When a passive effect from a blue card or corporation would be triggered by something occurring
-  during play (e.g., playing a Science card with “[Olympus Conference](#olympus-conference-185-ce)”,
-  getting 2 plants from another player placing an ocean tile with
-  “[Arctic Algae](#arctic-algae-023-s)”, or receiving 2 M€ when someone raises Venus with
-  [Aphrodite](#aphrodite-vn)) this is optional and the active player may choose not to trigger it.
-  However, triggers can be invoked by ANYONE, so another player may point out a trigger thus causing
-  it to be triggered. In this way, triggers are technically optional, in that if no one triggers
-  them (deliberately or inadvertently) they may go without being triggered.
-  - One example would be “[Decomposers](#decomposers-131-s)”; if you play a plant, animal, or
-    microbe tag with this card you could choose not to invoke the trigger, but someone else could do
-    so instead.
-  - A card that states that an Effect MAY be triggered is the exception here – no one can force you
-    to invoke it (e.g., “[Mars University](#mars-university-073-ce)”).
+- The following instructions are explicitly optional. No one can force you to resolve them:
+  - “[Mars University](#mars-university-073-ce)” – discard a card from hand, then draw a card when
+    you play a science tag.
+  - “[Neptunian Power Consultants](#card-neptunian-power-consultants)” – spend 5 M€ (steel may be
+    used) when an ocean is placed to raise energy production 1 step and add 1 hydroelectric
+    resource.
+  - [Pharmacy Union](#pharmacy-union-bpro) – gain 3 TR and flip the corporation when you play a
+    science tag with no diseases on it. Its other triggered instructions are mandatory.
+  - “[St. Joseph of Cupertino Mission](#card-st-joseph-of-cupertino-mission)” – the city owner
+    spends 2 M€ to draw a card when a cathedral is placed in their city.
+  - “[Supercapacitors](#supercapacitors-x46-pro)” – convert each energy resource to heat during
+    production; you may keep any or all of your energy instead.
+  - “[Trade Envoys](#trade-envoys-c46-c)” – advance the colony track 1 step before trading.
+  - “[Trading Colony](#trading-colony-c47-c)” – advance the colony track 1 step before trading.
+
+- These actions give you a choice to buy or play a card:
+  - [Board of Directors](#card-board-of-directors) – discard the drawn Prelude, or spend 12 M€ and a
+    director to play it.
+  - “[Business Network](#business-network-110-ce)” and “[Inventors’ Guild](#inventors-guild-006-ce)”
+    – buy the card you look at, or discard it.
+  - “[Venus Orbital Survey](#card-venus-orbital-survey)” – take Venus cards for free, and either buy
+    or discard each other card.
+
+  You must still resolve all mandatory instructions of the chosen action.
+
+- [Ecoline](#ecoline-s) may pay 7 plants instead of 8 to place a greenery.
+  ([Card text](https://cards.hadronikle.com/corporations/Base%20-%20Ecoline.png))
 
 ([Source 1](https://boardgamegeek.com/article/27901395#27901395),
 [Source 2](https://boardgamegeek.com/article/29279818#29279818),
 [Source 3](https://boardgamegeek.com/article/29972040#29972040),
-[Source 4](https://boardgamegeek.com/article/30197493#30197493),
+[Source 4](https://boardgamegeek.com/article/39909297#39909297),
 [Source 5](https://boardgamegeek.com/article/34114400#34114400),
-[Source 6](https://boardgamegeek.com/article/34114388#34114388))
+[Source 6](https://boardgamegeek.com/article/34114388#34114388),
+[Source 7](https://boardgamegeek.com/article/45856755#45856755),
+[Source 8](https://boardgamegeek.com/article/42862758#42862758))
 
 ### Are Effects in Terraforming Mars cumulative?
 
@@ -1055,10 +1083,15 @@ abilities will stack. Some examples include:
 
 ### What order do you resolve the effects/triggers of a card that you play?
 
-The active player may choose the order in which to resolve the card’s effects. As the active player,
-**after you pay for the card in question** (this is the only prerequisite), it (and its tags) are
-considered “played”, and all effects are then resolved in ANY order you choose, EXCEPT in cases
-where the card specifies an order. For example:
+First, check the card’s requirements, then pay its full cost (after any discounts). The card and its
+tags are immediately in play, and its triggerable effects are immediately active. At this point,
+your to-do list contains:
+
+- Instructions in the bottom section of the card, if any.
+- Effects triggered by playing this card or its tags, if any, including those on the card itself.
+
+You may choose the order in which to resolve these instructions unless one specifies an order, but
+you must find an order that resolves every mandatory instruction. For example:
 
 - The “[Sponsored Academies](#sponsored-academies-247-vn)” card requires that you discard 1 card
   from hand, THEN can draw 3 cards.
@@ -1137,9 +1170,9 @@ when playing “[Nitrophilic Moss](#card-nitrophilic-moss)” (lose 2 plants, ga
 as Manutech, you can resolve the “gain two plant production” requirement first (granting you two
 plants as Manutech’s effect) then immediately lose those plants to satisfy the other requirement.
 
-Remember – the only prerequisite for resolving the card’s effects is paying for it first! Even if
-you would receive a rebate on a card (money back), you must still be able to afford the initial cost
-of the card in order to trigger the rebate.
+Remember – you must pay for a card before resolving any instructions on it or triggered by playing
+it. Even if you would receive a rebate (money back), you must be able to afford the initial cost of
+the card.
 
 ([Source 1](https://boardgamegeek.com/article/29327311#29327311),
 [Source 2](https://boardgamegeek.com/article/28391249#28391249),
@@ -1150,7 +1183,7 @@ of the card in order to trigger the rebate.
 ### Can multiple tags on a single card trigger effects you have in play?
 
 Yes. Each tag is considered separately, and as such each tag will trigger any effects you have in
-play. Note that each tag can also trigger multiple Blue Card/Corporation effects. Some examples
+play. Each tag can also trigger multiple card effects. Some examples
 include:
 
 - Discounts (e.g., the Science tag discount of 2 M€ from [Valley Trust](#valley-trust-p) would apply
@@ -1401,7 +1434,7 @@ tiles. When that player no longer has enough plants to convert to greeneries, th
 repeats this process.
 
 As a reminder, all greeneries placed after oxygen is maxed DO NOT generate a Terraform Rating.
-During this phase, any relevant Blue Card or Corporation effects can be triggered by greenery
+During this phase, any relevant card effects are triggered by greenery
 placement (e.g., “[Herbivores](#card-herbivores)”, [Philares](#philares-pro),
 [Mining Guild](#mining-guild-s), etc.).
 
@@ -5952,6 +5985,7 @@ used during an action (and Ruling Bonuses are resolved during the Solar Phase NO
 | X33    | B/PRO | “[Magnetic Field Generators](#magnetic-field-generators-x33-bpro)” |
 | X35    | PRO   | “[Bactoviral Research](#bactoviral-research-x35-pro)”              |
 | X38    | PRO   | “[Outdoor Sports](#outdoor-sports-x38-pro)”                        |
+| X64    | P2/PRO | “[St. Joseph of Cupertino Mission](#card-st-joseph-of-cupertino-mission)” |
 
 ## Acknowledgements
 
@@ -6331,6 +6365,11 @@ THEN draw 3 cards. All OPPONENTS draw 1 card._
 
 [Standard Technology](#standard-technology-156-ce) (6 MC, Blue Card), _Effect: After you pay for a
 standard project, except selling patents, you gain 3 MC._
+
+<a name="card-st-joseph-of-cupertino-mission"></a>St. Joseph of Cupertino Mission (7 MC, Blue
+Card), _Top - Action: Spend 5 MC (steel may be used) to place a cathedral (silver cube) on a city
+tile. Max 1 per city. THE CITY OWNER MAY PAY 2 MC TO DRAW 1 CARD; Bottom - 1 VP per cathedral in
+play._
 
 <a name="card-stratopolis"></a>Stratopolis (22 MC, Blue Card), _Top - Action: Add 2 floaters to ANY
 VENUS CARD; Bottom - Requires 2 science tags. Increase your MC production 2 steps. Place a city tile
